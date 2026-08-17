@@ -345,7 +345,7 @@ def main():
               "- [Modelling the viability of opportunity networks](https://xiqo.substack.com/p/modelling-the-viability-of-opportunity) models friends-of-friends, calibrates on observed data, reports wide uncertainty, and stresses heterogeneity. I borrow the focus on second-order bridges and calibrated caveats, but do not import its Barabási–Albert simulated edges into this observed ego network.",
               "", "## Limits", "",
               "- X exposes an ego list here, not the full directed graph among followed accounts. Community and bridge results therefore mix semantic edges with explicit bio mentions.",
-              "- X rate-limited profile timelines after a burst of profile reads. The collection stopped instead of bypassing the UI; exact post coverage is in `data/derived/coverage.json`.",
+              "- After a burst of profile reads, X profile timelines returned a generic error while profile headers still loaded. The collection stopped instead of bypassing the UI; exact post coverage is in `data/derived/coverage.json`.",
               "- Recommendation candidates came from X's opaque ranking and may reflect popularity, mutuals, or personalization. “Generative” is inferred from their stated work and adjacency, not measured output quality.",
               "- Bios and recent posts change. This is a dated snapshot, not a durable account judgment.", ""]
     (root / "report.md").write_text("\n".join(lines))

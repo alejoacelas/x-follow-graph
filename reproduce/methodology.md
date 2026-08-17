@@ -21,7 +21,7 @@ Output: `data/raw/following.json`.
 
 For each followed account, opened its public Posts tab and collected up to 20 distinct `article[data-testid="tweet"]` records while scrolling. A record retained only the status URL and ID, timestamp, owner handle, repost/pinned flags, plus account-level term counts; full post text was discarded after feature extraction.
 
-The first 28 profiles yielded 512 records. X then returned `Something went wrong. Try reloading.` on timeline regions while profile headers still loaded. A visible Retry failed. After a cooldown, a fresh profile returned the same error. I stopped rather than change accounts, inspect cookies, replay private APIs, or bypass X's UI.
+The first 28 profiles yielded 512 records. X then returned `Something went wrong. Try reloading.` on timeline regions while profile headers still loaded. A visible Retry failed. After a cooldown, a fresh profile returned the same error. This is consistent with a rate limit, but the UI did not identify a cause. I stopped rather than change accounts, inspect cookies, replay private APIs, or bypass X's UI.
 
 Exact states: `data/raw/post-features.json` and `data/derived/coverage.json`.
 
@@ -61,4 +61,3 @@ git diff --exit-code
 ```
 
 Expected coverage on this snapshot: 443 following accounts, 512 post-feature records from 28 accounts, 56 profile-timeline attempts, 15 communities, and six nearby candidates.
-

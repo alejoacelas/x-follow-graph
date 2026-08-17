@@ -6,7 +6,7 @@
   "post_feature_records": 512,
   "post_load_states": {
     "ok": 28,
-    "blocked_rate_limit": 28
+    "blocked_after_burst": 28
   },
   "candidate_profiles": 6,
   "communities": 15,
