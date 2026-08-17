@@ -1,0 +1,15 @@
+{
+  "following_accounts": 443,
+  "following_collection_complete_to_ui_bottom": true,
+  "post_accounts_attempted": 56,
+  "post_accounts_with_at_least_one": 28,
+  "post_feature_records": 512,
+  "post_load_states": {
+    "ok": 28,
+    "blocked_rate_limit": 28
+  },
+  "candidate_profiles": 6,
+  "communities": 15,
+  "graph_edges": 1697,
+  "cross_community_edges": 988
+}

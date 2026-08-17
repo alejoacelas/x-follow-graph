@@ -1,0 +1,4650 @@
+{
+  "collected_at": "2026-08-16",
+  "source": "https://x.com/alejoacelas/following",
+  "collector": "Browser Control; signed-in Alejo Chrome profile",
+  "accounts": [
+    {
+      "handle": "_achan96_",
+      "name": "Alan Chan",
+      "bio": "Research Fellow @GovAIOrg | AI policy | PhD from @Mila_quebec | from",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GovAIOrg",
+        "Mila_quebec"
+      ],
+      "profile_url": "https://x.com/_achan96_"
+    },
+    {
+      "handle": "_alice_evans",
+      "name": "Alice Evans",
+      "bio": "Visiting Associate Professor @Stanford . Writing ‘The Great Gender Divergence’ with @PrincetonUPress",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Stanford",
+        "PrincetonUPress"
+      ],
+      "profile_url": "https://x.com/_alice_evans"
+    },
+    {
+      "handle": "_catwu",
+      "name": "cat",
+      "bio": "claude code + cowork @anthropicai , prev: @dagster , @scale_ai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "anthropicai",
+        "dagster",
+        "scale_ai"
+      ],
+      "profile_url": "https://x.com/_catwu"
+    },
+    {
+      "handle": "_chenglou",
+      "name": "Cheng Lou",
+      "bio": "Worked on: @reactjs , @messenger , @reasonml , @rescriptlang Currently: @midjourney , Pretext, Freerange",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "reactjs",
+        "messenger",
+        "reasonml",
+        "rescriptlang",
+        "midjourney"
+      ],
+      "profile_url": "https://x.com/_chenglou"
+    },
+    {
+      "handle": "_Mantic_AI",
+      "name": "Mantic",
+      "bio": "Mantic is an AI research and product company on a mission to solve judgemental forecasting.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/_Mantic_AI"
+    },
+    {
+      "handle": "_zifan_wang",
+      "name": "Zifan (Sail) Wang",
+      "bio": "AI Safety @AIatMeta MSL | ex-RS @scale_AI (SEAL) and @cais | PhD Alumni of CMU @cylab | Opinions of my own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AIatMeta",
+        "scale_AI",
+        "cais",
+        "cylab"
+      ],
+      "profile_url": "https://x.com/_zifan_wang"
+    },
+    {
+      "handle": "0xor0ne",
+      "name": "0xor0ne",
+      "bio": "Cybersecurity | Reverse Engineering | Vulnerability Research | Embedded & Silicon Security | My Tweets, My Opinions :)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/0xor0ne"
+    },
+    {
+      "handle": "1517fund",
+      "name": "1517 Fund",
+      "bio": "We back dropouts, renegade students, and deep tech scientists at the earliest stages, before anybody else. Want to chat? Reach out:",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/1517fund"
+    },
+    {
+      "handle": "80000Hours",
+      "name": "80,000 Hours",
+      "bio": "You have 80,000 hours in your career. This makes it your best opportunity to have a positive impact on the world.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/80000Hours"
+    },
+    {
+      "handle": "a_nnawang",
+      "name": "Anna Wang",
+      "bio": "in search of the deeply sincere. views not employer’s.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/a_nnawang"
+    },
+    {
+      "handle": "abhinadduri",
+      "name": "Abhinav Adduri",
+      "bio": "ML Tech Lead for Virtual Cell @ArcInstitute",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ArcInstitute"
+      ],
+      "profile_url": "https://x.com/abhinadduri"
+    },
+    {
+      "handle": "adambinksmith",
+      "name": "Adam Binksmith",
+      "bio": "Building AI Village @aidigest_",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [
+        "aidigest_"
+      ],
+      "profile_url": "https://x.com/adambinksmith"
+    },
+    {
+      "handle": "AdamMarblestone",
+      "name": "Adam Marblestone",
+      "bio": "Technologist, Scientist Co-founder and CEO @Convergent_FROs Tweets do not represent employers",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Convergent_FROs"
+      ],
+      "profile_url": "https://x.com/AdamMarblestone"
+    },
+    {
+      "handle": "adityaag",
+      "name": "Aditya Agarwal",
+      "bio": "General Partner @SPC , Co-Founder @Bevel_Health | Ex: Early Eng @facebook , CTO @Dropbox , Board @Flipkart | Optimist, Builder, Dad",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "SPC",
+        "Bevel_Health",
+        "facebook",
+        "Dropbox",
+        "Flipkart"
+      ],
+      "profile_url": "https://x.com/adityaag"
+    },
+    {
+      "handle": "aengus_lynch1",
+      "name": "Aengus Lynch",
+      "bio": "formally verifying software at @theoremlabs , former alignment researcher with @anthropicai , graduated PhD from @ucl , views and quirks my own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "theoremlabs",
+        "anthropicai",
+        "ucl"
+      ],
+      "profile_url": "https://x.com/aengus_lynch1"
+    },
+    {
+      "handle": "agenticasdk",
+      "name": "Agentica",
+      "bio": "Agentica, by @symbolica . An agent system that lets you interact with structured data and tools using natural language. Try it https:// agentica.symbolica.ai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "symbolica"
+      ],
+      "profile_url": "https://x.com/agenticasdk"
+    },
+    {
+      "handle": "aghyadd98",
+      "name": "Aghyad Deeb",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/aghyadd98"
+    },
+    {
+      "handle": "AgnesCallard",
+      "name": "Agnes Callard",
+      "bio": "Philosopher, UChicago New book: https:// is.gd/7CVIi6 Point http:// is.gd/WHyOeh NYT http:// is.gd/UonlHb podcast http:// mindsalmostmeeting.com",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AgnesCallard"
+    },
+    {
+      "handle": "AHT_SBD",
+      "name": "Alex Holness-Tofts",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AHT_SBD"
+    },
+    {
+      "handle": "aidan_mclau",
+      "name": "Aidan McLaughlin",
+      "bio": "posttraining research @openai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "openai"
+      ],
+      "profile_url": "https://x.com/aidan_mclau"
+    },
+    {
+      "handle": "ajeya_cotra",
+      "name": "Ajeya Cotra",
+      "bio": "Helping the world prepare for extremely powerful AI. Risk assessment @METR_evals . Writing at Planned Obsolescence (about AI), Good Bones (about whatever).",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "METR_evals"
+      ],
+      "profile_url": "https://x.com/ajeya_cotra"
+    },
+    {
+      "handle": "albrgr",
+      "name": "Alexander Berger",
+      "bio": "Enjoys a good applied micro paper. CEO of @coeff_giving . Views my own, tweets self-destruct every once in a while.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "coeff_giving"
+      ],
+      "profile_url": "https://x.com/albrgr"
+    },
+    {
+      "handle": "alexalbert__",
+      "name": "Alex Albert",
+      "bio": "Research @AnthropicAI . Opinions are my own!",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/alexalbert__"
+    },
+    {
+      "handle": "alexandr_wang",
+      "name": "Alexandr Wang",
+      "bio": "chief ai officer @meta , founder meta superintelligence labs, founder @scale_ai . rational in the fullness of time",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "meta",
+        "scale_ai"
+      ],
+      "profile_url": "https://x.com/alexandr_wang"
+    },
+    {
+      "handle": "AlexandraBalwit",
+      "name": "Xander Balwit",
+      "bio": "Editorial @AnthropicAI . Formerly editor-in-chief at @AsimovPress . Well-fed vegan.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "AsimovPress"
+      ],
+      "profile_url": "https://x.com/AlexandraBalwit"
+    },
+    {
+      "handle": "alexeyguzey",
+      "name": "Alexey Guzey",
+      "bio": "http:// guzey2.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/alexeyguzey"
+    },
+    {
+      "handle": "AlexHarding7",
+      "name": "Alex Harding",
+      "bio": "An internist in biotech",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AlexHarding7"
+    },
+    {
+      "handle": "alexolegimas",
+      "name": "Alex Imas",
+      "bio": "Director of AGI Economics @GoogleDeepMind . Professor at @ChicagoBooth . (on leave) Essays: https:// aleximas.substack.com Opinions are my own.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind",
+        "ChicagoBooth"
+      ],
+      "profile_url": "https://x.com/alexolegimas"
+    },
+    {
+      "handle": "alexwcohen",
+      "name": "Alex Cohen",
+      "bio": "Program director @GiveWell , shortstop for the Cincinnati Padres, Gene and Joanna's dad. Mostly empirical research and global health/development. Views my own.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GiveWell"
+      ],
+      "profile_url": "https://x.com/alexwcohen"
+    },
+    {
+      "handle": "alexwei_",
+      "name": "Alexander Wei",
+      "bio": "Reasoning @OpenAI . Co-built CICERO @MetaAI | @Berkeley_AI PhD '23 | @Harvard '20",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "OpenAI",
+        "MetaAI",
+        "Berkeley_AI",
+        "Harvard"
+      ],
+      "profile_url": "https://x.com/alexwei_"
+    },
+    {
+      "handle": "aliceysu",
+      "name": "Alice Su 蘇奕安",
+      "bio": "Senior international correspondent @TheEconomist , previously in China, Taiwan, and the Middle East. alicesu@economist.com",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "TheEconomist"
+      ],
+      "profile_url": "https://x.com/aliceysu"
+    },
+    {
+      "handle": "allisondman",
+      "name": "Allison Duettmann",
+      "bio": "AI, bio, neuro, nano for xhope futures. CEO @foresightinst . Started https:// existentialhope.com. Also at @mythosventures @agingbiomarkers @filfoundation",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "foresightinst",
+        "mythosventures",
+        "agingbiomarkers",
+        "filfoundation"
+      ],
+      "profile_url": "https://x.com/allisondman"
+    },
+    {
+      "handle": "alxndrdavies",
+      "name": "Xander Davies",
+      "bio": "red team lead @AISecurityInst PhD student @OATML_Oxford , prev @Harvard ( http:// haist.ai)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AISecurityInst",
+        "OATML_Oxford",
+        "Harvard"
+      ],
+      "profile_url": "https://x.com/alxndrdavies"
+    },
+    {
+      "handle": "AmandaAskell",
+      "name": "Amanda Askell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI . Personal account. All opinions come from my training data.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/AmandaAskell"
+    },
+    {
+      "handle": "amanrsanger",
+      "name": "Aman Sanger",
+      "bio": "Building @SpaceXAI | @cursor_ai founder",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "SpaceXAI",
+        "cursor_ai"
+      ],
+      "profile_url": "https://x.com/amanrsanger"
+    },
+    {
+      "handle": "AmeshAA",
+      "name": "Amesh Adalja",
+      "bio": "Infectious disease MD (also CCM & EM) focused on pandemics, emerging infections, biosecurity, biotech http:// centerforhealthsecurity.org/our-people/Ada lja …",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AmeshAA"
+    },
+    {
+      "handle": "AmmannNora",
+      "name": "Nora Ammann",
+      "bio": "Programme Director at https:// aria.org.uk AI Resilience https:// airesilience.net Co-founder & Board at http:// pibbss.ai",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AmmannNora"
+    },
+    {
+      "handle": "amylabenz",
+      "name": "Amy Labenz",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/amylabenz"
+    },
+    {
+      "handle": "anderssandberg",
+      "name": "Anders Sandberg",
+      "bio": "Academic jack-of-all-trades.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/anderssandberg"
+    },
+    {
+      "handle": "Andy_AJT",
+      "name": "Andy T",
+      "bio": "Codex Ambassador | AI Product Engineer & Run AI Demo Nights in London.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Andy_AJT"
+    },
+    {
+      "handle": "andy_matuschak",
+      "name": "Andy Matuschak",
+      "bio": "More wonder, more insight, more expression, more joy! R&D on tools for thought, with a focus on memory, reading, and attention. Currently working on @pico .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "pico"
+      ],
+      "profile_url": "https://x.com/andy_matuschak"
+    },
+    {
+      "handle": "andywalters",
+      "name": "Andy Walters",
+      "bio": "founder & ceo at https:// agent.press -- AI Chief of Staff for Enterprise Deals",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/andywalters"
+    },
+    {
+      "handle": "AnthropicAI",
+      "name": "Anthropic",
+      "bio": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https:// claude.ai.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "claudeai"
+      ],
+      "profile_url": "https://x.com/AnthropicAI"
+    },
+    {
+      "handle": "anton_d_leicht",
+      "name": "Anton Leicht",
+      "bio": "Translated by Grok AI & political economy | fellow @CarnegieEndow | allegro ma non troppo",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "CarnegieEndow"
+      ],
+      "profile_url": "https://x.com/anton_d_leicht"
+    },
+    {
+      "handle": "AntoniaJuelich",
+      "name": "Antonia Juelich",
+      "bio": "Research on International Security, Terrorism & Frontier AI @CamAISciPolicy @Cambridge_Uni",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "CamAISciPolicy",
+        "Cambridge_Uni"
+      ],
+      "profile_url": "https://x.com/AntoniaJuelich"
+    },
+    {
+      "handle": "ApolloResearch",
+      "name": "Apollo Research",
+      "bio": "Our goal is to secure frontier AI systems from development, to deployment and governance.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ApolloResearch"
+    },
+    {
+      "handle": "arankomatsuzaki",
+      "name": "Aran Komatsuzaki",
+      "bio": "Sharing AI research. Early work on AI (GPT-J, scaling, MoE). Ex ML PhD (GT) & Google.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/arankomatsuzaki"
+    },
+    {
+      "handle": "ArbResearch",
+      "name": "Arb",
+      "bio": "Unfocused Research Organization. A consultancy by @gleech & @CharlesD353 & @mishayagudin",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "gleech",
+        "CharlesD353",
+        "mishayagudin"
+      ],
+      "profile_url": "https://x.com/ArbResearch"
+    },
+    {
+      "handle": "arcinstitute",
+      "name": "Arc Institute",
+      "bio": "A full-stack institute for AI and biology research.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/arcinstitute"
+    },
+    {
+      "handle": "ARIA_research",
+      "name": "ARIA",
+      "bio": "Advanced Research + Invention Agency. Empowering scientists to reach for the edge of the possible. Bluesky: http:// aria-research.bsky.social",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ARIA_research"
+    },
+    {
+      "handle": "arianTBD",
+      "name": "Arian Hosseini @ ICML",
+      "bio": "Research Scientist @GoogleDeepMind - LLM post-training - prev: @Google @MSFTResearch",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind",
+        "Google",
+        "MSFTResearch"
+      ],
+      "profile_url": "https://x.com/arianTBD"
+    },
+    {
+      "handle": "arjun_ramani3",
+      "name": "Arjun Ramani",
+      "bio": "Econ PhD Student @MIT | Prev @TheEconomist in & | Hoosier4life",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "MIT",
+        "TheEconomist"
+      ],
+      "profile_url": "https://x.com/arjun_ramani3"
+    },
+    {
+      "handle": "ArtirKel",
+      "name": "José Luis Ricón Fernández de la Puente",
+      "bio": "Head of Theory at @RetroBio_ , enjoyer of things, blog: http:// nintil.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "RetroBio_"
+      ],
+      "profile_url": "https://x.com/ArtirKel"
+    },
+    {
+      "handle": "ashleevance",
+      "name": "Ashlee Vance",
+      "bio": "Writing at http:// corememory.com and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "HBO",
+        "Netflix"
+      ],
+      "profile_url": "https://x.com/ashleevance"
+    },
+    {
+      "handle": "AsteraInstitute",
+      "name": "Astera Institute",
+      "bio": "We empower visionary, high-leverage science and technology projects with the capacity to create transformative progress for human civilization.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/AsteraInstitute"
+    },
+    {
+      "handle": "astrodotbuild",
+      "name": "Astro",
+      "bio": "the web framework for content-driven websites.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/astrodotbuild"
+    },
+    {
+      "handle": "AvitalBalwit",
+      "name": "Avital Balwit",
+      "bio": "Chief of Staff @anthropicai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "anthropicai"
+      ],
+      "profile_url": "https://x.com/AvitalBalwit"
+    },
+    {
+      "handle": "Ayjchan",
+      "name": "Alina Chan",
+      "bio": "Scientist against lab-based pandemics Co-author of VIRAL: the search for the origin of Covid-19 A dangerous young investigator ‍",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Ayjchan"
+    },
+    {
+      "handle": "ayushnoori",
+      "name": "Ayush Noori",
+      "bio": "Rhodes Scholar researching AI for neuroscience at @UniofOxford and @HarvardDBMI to advance human health. Tweets/RT = my own.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "UniofOxford",
+        "HarvardDBMI"
+      ],
+      "profile_url": "https://x.com/ayushnoori"
+    },
+    {
+      "handle": "bakkermichiel",
+      "name": "Michiel Bakker",
+      "bio": "LLMs and AI alignment. Assistant Prof @MIT . Ex @GoogleDeepMind @GeminiApp .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "MIT",
+        "GoogleDeepMind",
+        "GeminiApp"
+      ],
+      "profile_url": "https://x.com/bakkermichiel"
+    },
+    {
+      "handle": "balajis",
+      "name": "Balaji",
+      "bio": "Author of the Network State. Founder of the Network School.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/balajis"
+    },
+    {
+      "handle": "BasilHalperin",
+      "name": "Basil Halperin",
+      "bio": "Assistant professor of economics @UVA ; Past lives: PhD @MITEcon , @Uber , @AQRCapital , @UChicago",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "UVA",
+        "MITEcon",
+        "Uber",
+        "AQRCapital",
+        "UChicago"
+      ],
+      "profile_url": "https://x.com/BasilHalperin"
+    },
+    {
+      "handle": "bcherny",
+      "name": "Boris Cherny",
+      "bio": "Claude Code @anthropicai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "anthropicai"
+      ],
+      "profile_url": "https://x.com/bcherny"
+    },
+    {
+      "handle": "bellaforristal",
+      "name": "Bella Forristal",
+      "bio": "Effective altruism, veganism, various weakly-held takes on things | @80000hours | she/her | https:// admonymous.co/bellaforristal",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "80000hours"
+      ],
+      "profile_url": "https://x.com/bellaforristal"
+    },
+    {
+      "handle": "ben_j_todd",
+      "name": "Benjamin Todd",
+      "bio": "Founder @80000Hours Use your career to tackle the world's biggest problems New book with Penguin: http:// 80000hours.org/book",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "80000Hours"
+      ],
+      "profile_url": "https://x.com/ben_j_todd"
+    },
+    {
+      "handle": "benjamin_hilton",
+      "name": "Benjamin Hilton",
+      "bio": "Head of Alignment Team & Loss of Control Risk Modelling and Mitigations Team at the UK AI Security Institute (AISI). views my own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/benjamin_hilton"
+    },
+    {
+      "handle": "benln",
+      "name": "Ben Lang",
+      "bio": "SpaceXAI, via Cursor team",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/benln"
+    },
+    {
+      "handle": "BertuzLuca",
+      "name": "Luca Bertuzzi",
+      "bio": "Chief Political Correspondent @euronews , reporting at large on European affairs & global politics. Once known as the AI guy. Ex @mlexclusive & @euractiv .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "euronews",
+        "mlexclusive",
+        "euractiv"
+      ],
+      "profile_url": "https://x.com/BertuzLuca"
+    },
+    {
+      "handle": "BharatKChandar",
+      "name": "Bharat Chandar",
+      "bio": "Research at Stanford Digital Economy Lab and Institute for Human-Centered AI PhD in Economics from Stanford GSB Substack: https:// bharatchandar.substack.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/BharatKChandar"
+    },
+    {
+      "handle": "bill_drexel",
+      "name": "Bill Drexel",
+      "bio": "; tech geopolitics; @HudsonInstitute | Former @CNASdc , @UNmigration , @AEI . Views my own, RTs ≠ Endorsements.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "HudsonInstitute",
+        "CNASdc",
+        "UNmigration",
+        "AEI"
+      ],
+      "profile_url": "https://x.com/bill_drexel"
+    },
+    {
+      "handle": "BlueDotImpact",
+      "name": "BlueDot Impact",
+      "bio": "We are the leading talent accelerator for beneficial AI and societal resilience. We run courses, help people land jobs and start new organizations.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/BlueDotImpact"
+    },
+    {
+      "handle": "Brendan_McCord",
+      "name": "Brendan McCord  x",
+      "bio": "The academy for philosopher-builders ( https:// cosmos-institute.org). A law unto myself, just like you.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Brendan_McCord"
+    },
+    {
+      "handle": "Bryce_Nickels",
+      "name": "Bryce Nickels",
+      "bio": "Professor of Genetics, @RutgersU ; Lab Director, @Waksman_Inst ; Podcast, @SciFrTheFringe , https:// sciencefromthefringe.substack.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "RutgersU",
+        "Waksman_Inst",
+        "SciFrTheFringe"
+      ],
+      "profile_url": "https://x.com/Bryce_Nickels"
+    },
+    {
+      "handle": "bscwang",
+      "name": "Brian Wang",
+      "bio": "Programme Director at ARIA",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/bscwang"
+    },
+    {
+      "handle": "bshlgrs",
+      "name": "Buck Shlegeris",
+      "bio": "CEO@Redwood Research ( @redwood_ai ), working on technical research to reduce catastrophic risk from AI misalignment. bshlegeris@gmail.com",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "redwood_ai"
+      ],
+      "profile_url": "https://x.com/bshlgrs"
+    },
+    {
+      "handle": "bswud",
+      "name": "Ben Southwood",
+      "bio": "Founder & editor, http:// worksinprogress.co @stripe . Fellow, @createstreets . Board, @sci_works . Advisory board, @FixBritain_ .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "stripe",
+        "createstreets",
+        "sci_works",
+        "FixBritain_"
+      ],
+      "profile_url": "https://x.com/bswud"
+    },
+    {
+      "handle": "bunjavascript",
+      "name": "Bun",
+      "bio": "Bun is a fast, all-in-one toolkit for installing, bundling, running and testing JavaScript & TypeScript. To install: `npm i -g bun`",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/bunjavascript"
+    },
+    {
+      "handle": "CAIS",
+      "name": "Center for AI Safety",
+      "bio": "Reducing societal-scale risks from AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/CAIS"
+    },
+    {
+      "handle": "cassidy_nelson",
+      "name": "Cass",
+      "bio": "ATX // mongodb dev rel.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/cassidy_nelson"
+    },
+    {
+      "handle": "catehall",
+      "name": "Cate Hall",
+      "bio": "author of You Can Just Do Things, a guide to personal agency, out now: https:// shorturl.at/kOCpz anon feedback: http:// shorturl.at/vxF24 | http:// catehall.com",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/catehall"
+    },
+    {
+      "handle": "catherineols",
+      "name": "Catherine Olsson",
+      "bio": "Hanging out with Claude, improving its behavior, and building tools to support that @AnthropicAI prev: @open_phil @googlebrain @openai ( @microcovid )",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "open_phil",
+        "googlebrain",
+        "openai",
+        "microcovid"
+      ],
+      "profile_url": "https://x.com/catherineols"
+    },
+    {
+      "handle": "ch402",
+      "name": "Chris Olah",
+      "bio": "Reverse engineering neural networks at @AnthropicAI . Previously @distillpub , OpenAI Clarity Team, Google Brain. Personal account.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "distillpub"
+      ],
+      "profile_url": "https://x.com/ch402"
+    },
+    {
+      "handle": "ChanaMessinger",
+      "name": "Chana",
+      "bio": "the stakes and the world and the stars Head of Video for 80,000 Hours - send me content ideas! Opinions are my own, though.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ChanaMessinger"
+    },
+    {
+      "handle": "CharlieBull0ck",
+      "name": "Charlie Bullock",
+      "bio": "Senior Research Fellow @Law_AI_ working on questions about U.S. law + AI governance",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "Law_AI_"
+      ],
+      "profile_url": "https://x.com/CharlieBull0ck"
+    },
+    {
+      "handle": "charliermarsh",
+      "name": "Charlie Marsh",
+      "bio": "@OpenAI . Building Ruff, uv, ty, and other high-performance Python tools with the @astral_sh team.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "OpenAI",
+        "astral_sh"
+      ],
+      "profile_url": "https://x.com/charliermarsh"
+    },
+    {
+      "handle": "ChengleiSi",
+      "name": "CLS",
+      "bio": "Founding member @Recursive_SI & PhD @stanfordnlp | teaching language models to do research",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Recursive_SI",
+        "stanfordnlp"
+      ],
+      "profile_url": "https://x.com/ChengleiSi"
+    },
+    {
+      "handle": "cherylwoooo",
+      "name": "Cheryl Wu",
+      "bio": "Econ PhD student @Yale | research scholar @GovAIOrg | @nsf grf | previously @uchicago undergrad | | | | Views are my own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Yale",
+        "GovAIOrg",
+        "nsf",
+        "uchicago"
+      ],
+      "profile_url": "https://x.com/cherylwoooo"
+    },
+    {
+      "handle": "ChrisGPotts",
+      "name": "Christopher Potts",
+      "bio": "Stanford Professor of Linguistics and, by courtesy, of Computer Science. Member of technical staff @stanfordnlp and @StanfordAILab . Co-founder @ Bigspin AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "stanfordnlp",
+        "StanfordAILab"
+      ],
+      "profile_url": "https://x.com/ChrisGPotts"
+    },
+    {
+      "handle": "ChrisPainterYup",
+      "name": "Chris Painter",
+      "bio": "President @METR_Evals , evals accelerationist, working hard on AGI preparedness",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "METR_Evals"
+      ],
+      "profile_url": "https://x.com/ChrisPainterYup"
+    },
+    {
+      "handle": "christineist",
+      "name": "christine",
+      "bio": "sing it louder building cuties! into social infrastructure",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/christineist"
+    },
+    {
+      "handle": "ChrSzegedy",
+      "name": "Christian Szegedy",
+      "bio": "#deeplearning, #ai research scientist. Opinions are mine.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ChrSzegedy"
+    },
+    {
+      "handle": "cjiang00",
+      "name": "Carolanne",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/cjiang00"
+    },
+    {
+      "handle": "claude_code",
+      "name": "Claude Code Community",
+      "bio": "Community account for sharing ClaudeCode related projects and releases. Views/shares independent from @AnthropicAI positions.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/claude_code"
+    },
+    {
+      "handle": "ClaudeCodeLog",
+      "name": "Claude Code Changelog",
+      "bio": "Automated by @marc_krenn UNOFFICIAL – but tolerated – bot posting Claude Code CLI, feature flag & prompt changes. Full CC history in github repo.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "marc_krenn"
+      ],
+      "profile_url": "https://x.com/ClaudeCodeLog"
+    },
+    {
+      "handle": "ClaudeDevs",
+      "name": "ClaudeDevs",
+      "bio": "Official updates for developers building with @ClaudeAI",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ClaudeAI"
+      ],
+      "profile_url": "https://x.com/ClaudeDevs"
+    },
+    {
+      "handle": "coeff_giving",
+      "name": "Coefficient Giving",
+      "bio": "Coefficient Giving's mission is to help others as much as we can with the resources available to us.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/coeff_giving"
+    },
+    {
+      "handle": "ConnorFlexman",
+      "name": "Connor Flexman",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ConnorFlexman"
+    },
+    {
+      "handle": "Convergent_FROs",
+      "name": "Convergent Research",
+      "bio": "A mission control for frontier technology. To learn more about Focused Research Organizations, visit our website.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Convergent_FROs"
+    },
+    {
+      "handle": "convex",
+      "name": "Convex",
+      "bio": "The backend platform she tells you not to worry about",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/convex"
+    },
+    {
+      "handle": "CorsIAQ",
+      "name": "Richard Corsi, PhD, PE (Texas)",
+      "bio": "Dean of Engineering, University of California, Davis Indoor Environmental Engineer Proud UC Davis Alumnus Faith in younger generations Dog lover",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/CorsIAQ"
+    },
+    {
+      "handle": "cosmos_inst",
+      "name": "Cosmos Institute",
+      "bio": "The Academy for Philosopher-Builders. Building AI for human flourishing. Writing at https:// blog.cosmos-institute.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/cosmos_inst"
+    },
+    {
+      "handle": "cparthemore",
+      "name": "Chris Parthemore",
+      "bio": "Emmy's Dad, Husband, Traveler, Foodie, Theater Exec, Associate Producer Swan Song, Physics Junkie, Falcon 03’, 22’",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/cparthemore"
+    },
+    {
+      "handle": "ctatedev",
+      "name": "Chris Tate",
+      "bio": "@Vercel Labs | Created http:// agent-browser.dev, http:// portless.sh, http:// native-sdk.dev, http:// json-render.dev | Husband & Dad | He/him | Musician, Space Nerd, Foodie | Vegan",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Vercel"
+      ],
+      "profile_url": "https://x.com/ctatedev"
+    },
+    {
+      "handle": "dair_ai",
+      "name": "DAIR.AI",
+      "bio": "Democratizing AI research, education, and technologies. Learn about AI Agents for FREE at https:// academy.dair.ai/courses/elemen ts-of-ai-agents …",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/dair_ai"
+    },
+    {
+      "handle": "dan_lahav",
+      "name": "Dan Lahav",
+      "bio": "Co-Founder & CEO @Irregular",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Irregular"
+      ],
+      "profile_url": "https://x.com/dan_lahav"
+    },
+    {
+      "handle": "DanielGerstein",
+      "name": "Padre",
+      "bio": "Just a kid with an autistic& diabetic cat",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/DanielGerstein"
+    },
+    {
+      "handle": "danielgross",
+      "name": "Daniel Gross",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/danielgross"
+    },
+    {
+      "handle": "danielrock",
+      "name": "Daniel Rock",
+      "bio": "Co-lead AI x Economy Program @Google . AP (on leave) @Wharton . Cofounder @workhelix . Everyone can just do stuff and that's {good, bad}.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Google",
+        "Wharton",
+        "workhelix"
+      ],
+      "profile_url": "https://x.com/danielrock"
+    },
+    {
+      "handle": "davey_burke",
+      "name": "Dave Burke",
+      "bio": "Advisor @ Arc Institute | Google +",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/davey_burke"
+    },
+    {
+      "handle": "davidad",
+      "name": "davidad",
+      "bio": "cognizing structures of information processing systems, in all their forms | category theory, perennial philosophy, Bodhitropic Alignment | cancel heat death",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/davidad"
+    },
+    {
+      "handle": "DavidDuvenaud",
+      "name": "David Duvenaud",
+      "bio": "Machine learning prof @UofT . Former team lead at Anthropic. Working on generative models, inference, & latent structure.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "UofT"
+      ],
+      "profile_url": "https://x.com/DavidDuvenaud"
+    },
+    {
+      "handle": "davidgan",
+      "name": "david gan",
+      "bio": "working on @cursor_ai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "cursor_ai"
+      ],
+      "profile_url": "https://x.com/davidgan"
+    },
+    {
+      "handle": "davis7",
+      "name": "Ben Davis",
+      "bio": "yells at @theo both on and off camera (co-host of the nerd snipe podcast)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "theo"
+      ],
+      "profile_url": "https://x.com/davis7"
+    },
+    {
+      "handle": "ddkang",
+      "name": "Daniel Kang",
+      "bio": "Distinguished AI research scientist at Bridgewater AIA labs, asst. professor at UIUC CS. Formerly in the Stanford DAWN lab and the Berkeley Sky Lab.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ddkang"
+    },
+    {
+      "handle": "deanwball",
+      "name": "Dean W. Ball",
+      "bio": "head of strategic futures @openai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "openai"
+      ],
+      "profile_url": "https://x.com/deanwball"
+    },
+    {
+      "handle": "deboramarks",
+      "name": "Debora Marks",
+      "bio": "Mission: design of biological interventions for environment and human health (to save the world)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/deboramarks"
+    },
+    {
+      "handle": "deedydas",
+      "name": "Deedy",
+      "bio": "Partner at @MenloVentures . Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect prior: Glean, Google Search. Cornell CS.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "MenloVentures"
+      ],
+      "profile_url": "https://x.com/deedydas"
+    },
+    {
+      "handle": "deepseek_ai",
+      "name": "DeepSeek",
+      "bio": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/deepseek_ai"
+    },
+    {
+      "handle": "demishassabis",
+      "name": "Demis Hassabis",
+      "bio": "Nobel Laureate. Co-Founder & Chair @GoogleDeepMind ; Chief Scientist of Alphabet. Founder & CEO @IsomorphicLabs . Building the future...",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind",
+        "IsomorphicLabs"
+      ],
+      "profile_url": "https://x.com/demishassabis"
+    },
+    {
+      "handle": "DeweyAM",
+      "name": "Dewey Murdick",
+      "bio": "Shaping how we learn, teach & discover in the age of AI | Professor & Researcher @Georgetown exploring human-AI teaming | Advisor | Views my own",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Georgetown"
+      ],
+      "profile_url": "https://x.com/DeweyAM"
+    },
+    {
+      "handle": "dewierwan_",
+      "name": "Dewi Erwan",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/dewierwan_"
+    },
+    {
+      "handle": "diffUSEproject",
+      "name": "The DiffUSE Project",
+      "bio": "Infrastructure for learning and representing protein motions from structural data",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/diffUSEproject"
+    },
+    {
+      "handle": "divyasiddarth",
+      "name": "Divya Siddarth",
+      "bio": "democracy + alignment @AnthropicAI , collective intelligence accelerationist @collect_intel",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "collect_intel"
+      ],
+      "profile_url": "https://x.com/divyasiddarth"
+    },
+    {
+      "handle": "donmilton",
+      "name": "Don Milton @donmilton.bsky.social @Don_Milton Following",
+      "bio": "Prof UMD SPH, I study how resp viruses spread \"Everything we do before a pandemic will seem alarmist. Everything we do after will seem inadequate\" -M. Leavitt",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Don_Milton"
+      ],
+      "profile_url": "https://x.com/donmilton"
+    },
+    {
+      "handle": "dpaleka",
+      "name": "Daniel Paleka",
+      "bio": "looking into it @METR_Evals | prev phd @CSatETH | https:// danielpaleka.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "METR_Evals",
+        "CSatETH"
+      ],
+      "profile_url": "https://x.com/dpaleka"
+    },
+    {
+      "handle": "dschwarz26",
+      "name": "Dan Schwarz",
+      "bio": "Co-founder @ http:// futuresearch.ai Prev CTO @metaculus , built Google's internal prediction market. Chess, jazz, biking, skiing, and learning.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "metaculus"
+      ],
+      "profile_url": "https://x.com/dschwarz26"
+    },
+    {
+      "handle": "DuncanMcClement",
+      "name": "Duncan Mcclements",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/DuncanMcClement"
+    },
+    {
+      "handle": "dwarkesh_sp",
+      "name": "Dwarkesh Patel",
+      "bio": "Host of @dwarkeshpodcast https:// youtube.com/DwarkeshPatel https:// open.spotify.com/show/4JH4tybY1 zX6e5hjCwU6gF … https:// apple.co/3ujLQkZ",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "dwarkeshpodcast"
+      ],
+      "profile_url": "https://x.com/dwarkesh_sp"
+    },
+    {
+      "handle": "Eduard_Baroyan",
+      "name": "Eduard Baroyan",
+      "bio": "Founder of 3x103, Building @abx_platform ; @odyssey_fellow co-host; E&M at @UniofOxford ; @atlasfellow back in the day",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "abx_platform",
+        "odyssey_fellow",
+        "UniofOxford",
+        "atlasfellow"
+      ],
+      "profile_url": "https://x.com/Eduard_Baroyan"
+    },
+    {
+      "handle": "edwardkembery",
+      "name": "Edward Kembery",
+      "bio": "coordinating + defending. researcher @Safe_AI_Forum , previously visiting @ARIA_research + @GovAI_ All views my own.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Safe_AI_Forum",
+        "ARIA_research",
+        "GovAI_"
+      ],
+      "profile_url": "https://x.com/edwardkembery"
+    },
+    {
+      "handle": "EgeErdil2",
+      "name": "Ege Erdil",
+      "bio": "update your effect size estimates downwards",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/EgeErdil2"
+    },
+    {
+      "handle": "eli_lifland",
+      "name": "Eli Lifland",
+      "bio": "AI forecasting and governance @AI_Futures_ . Co-author of AI 2040: Plan A, AI 2027, and the AI Futures Model. Also @aidigest_ , @SamotsvetyF . Prev @oughtinc",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AI_Futures_",
+        "aidigest_",
+        "SamotsvetyF",
+        "oughtinc"
+      ],
+      "profile_url": "https://x.com/eli_lifland"
+    },
+    {
+      "handle": "elidourado",
+      "name": "Eli Dourado",
+      "bio": "Philanthrocapitalism at @AsteraInstitute . tfp/acc",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AsteraInstitute"
+      ],
+      "profile_url": "https://x.com/elidourado"
+    },
+    {
+      "handle": "ElliotHershberg",
+      "name": "Elliot Hershberg",
+      "bio": "Partner @AmplifyPartners , writing https:// centuryofbio.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AmplifyPartners"
+      ],
+      "profile_url": "https://x.com/ElliotHershberg"
+    },
+    {
+      "handle": "emergingtechobs",
+      "name": "Emerging Technology Observatory",
+      "bio": "Creating high-quality data resources to inform critical decisions on emerging technology issues. A project of @CSETGeorgetown",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "CSETGeorgetown"
+      ],
+      "profile_url": "https://x.com/emergingtechobs"
+    },
+    {
+      "handle": "EmilyLeproust",
+      "name": "Emily Leproust",
+      "bio": "Entrepreneur & CEO @TwistBioscience . Fascinated by #synbio and #genetics",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "TwistBioscience"
+      ],
+      "profile_url": "https://x.com/EmilyLeproust"
+    },
+    {
+      "handle": "emiyazono",
+      "name": "Evan Miyazono",
+      "bio": "Designing and launching interventions to address bottlenecks to AI Resilience at Atlas Computing. DMs open if you want to help!",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/emiyazono"
+    },
+    {
+      "handle": "emollick",
+      "name": "Ethan Mollick",
+      "bio": "Professor @Wharton studying AI. New book, Co-Existence, coming October 20. Preorder here: https:// co-existence.ai Substack: https:// oneusefulthing.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Wharton"
+      ],
+      "profile_url": "https://x.com/emollick"
+    },
+    {
+      "handle": "EpochAIResearch",
+      "name": "Epoch AI",
+      "bio": "Investigating the trajectory of AI for the benefit of society.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/EpochAIResearch"
+    },
+    {
+      "handle": "ericjmichaud_",
+      "name": "Eric J. Michaud",
+      "bio": "Trying to make deep neural networks among the best understood objects in the universe.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ericjmichaud_"
+    },
+    {
+      "handle": "EsbenKC",
+      "name": "Esben Kran",
+      "bio": "Ohana means 'control the intelligence explosion'",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/EsbenKC"
+    },
+    {
+      "handle": "EthanAlley",
+      "name": "Ethan Alley",
+      "bio": "building with @grigonomics https:// en.wikipedia.org/wiki/Shitposti ng … \"Background\" Co-Founded: Alvea dot bio, altLabs dot tech Prev @medialab @harvard",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [
+        "grigonomics",
+        "medialab",
+        "harvard"
+      ],
+      "profile_url": "https://x.com/EthanAlley"
+    },
+    {
+      "handle": "EthanJPerez",
+      "name": "Ethan Perez",
+      "bio": "Alignment team lead at Anthropic",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/EthanJPerez"
+    },
+    {
+      "handle": "EvanHub",
+      "name": "Evan Hubinger",
+      "bio": "Alignment Stress-Testing lead @AnthropicAI . Opinions my own. Previously: MIRI, OpenAI, Google, Yelp, Ripple. (he/him/his)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/EvanHub"
+    },
+    {
+      "handle": "evavivalt",
+      "name": "Eva Vivalt",
+      "bio": "Assistant prof @UofT , research on cash transfers and evidence-based decision-making, J-PAL affiliate.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "UofT"
+      ],
+      "profile_url": "https://x.com/evavivalt"
+    },
+    {
+      "handle": "exgenesis",
+      "name": "xiq",
+      "bio": "epistemics https:// community-archive.org https:// epistemic.garden",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/exgenesis"
+    },
+    {
+      "handle": "FabienDRoger",
+      "name": "Fabien Roger",
+      "bio": "AI Safety Researcher",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/FabienDRoger"
+    },
+    {
+      "handle": "farairesearch",
+      "name": "FAR.AI",
+      "bio": "Frontier alignment research to ensure the safe development and deployment of advanced AI systems.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/farairesearch"
+    },
+    {
+      "handle": "Fathom_org",
+      "name": "Fathom",
+      "bio": "Fathom is an independent nonprofit that finds, builds, and scales policy and technical innovations designed for the AI century.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Fathom_org"
+    },
+    {
+      "handle": "FilippaLentzos",
+      "name": "Dr Filippa Lentzos",
+      "bio": "Associate Professor of Science & International Security at King's College London critically analysing health security threats, biosecurity & biorisk management",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/FilippaLentzos"
+    },
+    {
+      "handle": "finmoorhouse",
+      "name": "Fin Moorhouse",
+      "bio": "@GoogleDeepMind . Prev @forethought_org , Longview Philanthropy, @FHIOxford , @HearThisIdea .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind",
+        "forethought_org",
+        "FHIOxford",
+        "HearThisIdea"
+      ],
+      "profile_url": "https://x.com/finmoorhouse"
+    },
+    {
+      "handle": "fish_kyle3",
+      "name": "Kyle Fish",
+      "bio": "Model Welfare @ Anthropic",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/fish_kyle3"
+    },
+    {
+      "handle": "FlynnDevine",
+      "name": "Flynn Devine",
+      "bio": "Tech and better futures. Lead Researcher (Digital Policy) @Demos | Ex @collect_intel , @turinginst , @_GlobalAssembly",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Demos",
+        "collect_intel",
+        "turinginst",
+        "_GlobalAssembly"
+      ],
+      "profile_url": "https://x.com/FlynnDevine"
+    },
+    {
+      "handle": "foresightinst",
+      "name": "Foresight Institute",
+      "bio": "Advancing frontier science and technology since 1986.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/foresightinst"
+    },
+    {
+      "handle": "forethought_org",
+      "name": "Forethought",
+      "bio": "Research nonprofit exploring how to navigate explosive AI progress.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/forethought_org"
+    },
+    {
+      "handle": "FreshMangoLassi",
+      "name": "Habiba",
+      "bio": "Co-founder @SpiroTB - TB screening and prevention charity focused on children http:// spiro.ngo 10% Pledge #103 with @Givingwhatwecan @habibabanu .bsky.soc",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "SpiroTB",
+        "Givingwhatwecan",
+        "habibabanu"
+      ],
+      "profile_url": "https://x.com/FreshMangoLassi"
+    },
+    {
+      "handle": "FriedKielbasa",
+      "name": "Fred",
+      "bio": "professional chatgpt user alt: @prefadesso email list: https:// forms.gle/cFcamyUYGQeZSK 3f8 …",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "prefadesso"
+      ],
+      "profile_url": "https://x.com/FriedKielbasa"
+    },
+    {
+      "handle": "furongh",
+      "name": "Furong Huang",
+      "bio": "Assoc. prof. of CS at University of Maryland. Researcher in #PhysicalAI, #TrustworthyML, #EthicalAI, AI #Alignment, #AI for ALL.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/furongh"
+    },
+    {
+      "handle": "gabeeegoooh",
+      "name": "Gabriel Goh",
+      "bio": "Images {1,1.5,2} Lead, among other things.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/gabeeegoooh"
+    },
+    {
+      "handle": "gdb",
+      "name": "Greg Brockman",
+      "bio": "President & Co-Founder @OpenAI",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "OpenAI"
+      ],
+      "profile_url": "https://x.com/gdb"
+    },
+    {
+      "handle": "gdemaneuf",
+      "name": "Gilles Demaneuf",
+      "bio": "Pointy Head. Opinions, analyses and views are mine and should never be interpreted as representing any institution or company. #DRASTIC",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/gdemaneuf"
+    },
+    {
+      "handle": "geoffreyirving",
+      "name": "Geoffrey Irving",
+      "bio": "Cofounder and Chief Scientist at Resolution. Alignment will be solved, but not necessarily in time. Previously AISI, DeepMind, OpenAI, Google Brain, etc.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/geoffreyirving"
+    },
+    {
+      "handle": "ggronvall",
+      "name": "Gigi Gronvall",
+      "bio": "Professor, @JohnsHopkinsEHE , @JohnsHopkinsSPH , @JohnsHopkins ;",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "JohnsHopkinsEHE",
+        "JohnsHopkinsSPH",
+        "JohnsHopkins"
+      ],
+      "profile_url": "https://x.com/ggronvall"
+    },
+    {
+      "handle": "gleech",
+      "name": "gavin leech (Non-Reasoning)",
+      "bio": "context maximiser @ArbResearch , prez @ http:// paradigm3.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ArbResearch"
+      ],
+      "profile_url": "https://x.com/gleech"
+    },
+    {
+      "handle": "GoodfireAI",
+      "name": "Goodfire",
+      "bio": "Using interpretability to understand, learn from, and design AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/GoodfireAI"
+    },
+    {
+      "handle": "goodside",
+      "name": "Riley Goodside",
+      "bio": "Mostly screenshots of chatbots since 2022. Formerly: Google DeepMind, Scale.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/goodside"
+    },
+    {
+      "handle": "GovAIOrg",
+      "name": "GovAI",
+      "bio": "We help decision-makers navigate the transition to a world with advanced AI, by producing rigorous research and fostering talent.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/GovAIOrg"
+    },
+    {
+      "handle": "gralston",
+      "name": "Geoff Ralston",
+      "bio": "Founder of @saifvc - The Safe Artificial Intelligence Fund. Former President at Y Combinator. Founder, Imagine K12. Angel Investor.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "saifvc"
+      ],
+      "profile_url": "https://x.com/gralston"
+    },
+    {
+      "handle": "gregkoblentz",
+      "name": "Gregory Koblentz (now at gregkoblentz.bsky.social)",
+      "bio": "Associate Professor and Director of Biodefense Graduate Program in the Schar School of Policy and Government at George Mason University.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/gregkoblentz"
+    },
+    {
+      "handle": "grigonomics",
+      "name": "Grigory Khimulya",
+      "bio": "building with @EthanAlley Prev. co-founder & CEO, Alvea",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "EthanAlley"
+      ],
+      "profile_url": "https://x.com/grigonomics"
+    },
+    {
+      "handle": "guynamedjoshl",
+      "name": "Josh Landes",
+      "bio": "into flourishing futures and making friends with smart machines | @BlueDotImpact & @pitchSCHEME",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "BlueDotImpact",
+        "pitchSCHEME"
+      ],
+      "profile_url": "https://x.com/guynamedjoshl"
+    },
+    {
+      "handle": "HamelHusain",
+      "name": "Hamel Husain",
+      "bio": "Evals Evals Evals - http:// evals.info About Me: https:// hamel.dev",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/HamelHusain"
+    },
+    {
+      "handle": "haoxingdu",
+      "name": "Haoxing Du",
+      "bio": "Dazed and confused, but trying to continue. Working on a new project here: https:// tinyurl.com/ai-behavior Married to @Kaseymarkel",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "Kaseymarkel"
+      ],
+      "profile_url": "https://x.com/haoxingdu"
+    },
+    {
+      "handle": "haththerescuer",
+      "name": "sammy",
+      "bio": "bias towards action guy learns what \"bias\" means",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/haththerescuer"
+    },
+    {
+      "handle": "HeidiPriebe1",
+      "name": "Heidi Priebe",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/HeidiPriebe1"
+    },
+    {
+      "handle": "hendrycks",
+      "name": "Dan Hendrycks",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/hendrycks"
+    },
+    {
+      "handle": "herbiebradley",
+      "name": "Herbie Bradley",
+      "bio": "a generalist agent",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/herbiebradley"
+    },
+    {
+      "handle": "hi_tysam",
+      "name": "Fern",
+      "bio": "Neural network speedrunner and community-funded open source researcher. Set the CIFAR-10 record several times. Say hi!",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/hi_tysam"
+    },
+    {
+      "handle": "hlntnr",
+      "name": "Helen Toner",
+      "bio": "AI, national security, China. Part of the founding team at @CSETGeorgetown (opinions my own). Author of Rising Tide on substack: http:// helentoner.substack.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "CSETGeorgetown"
+      ],
+      "profile_url": "https://x.com/hlntnr"
+    },
+    {
+      "handle": "HowieLempel",
+      "name": "Howie Lempel",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/HowieLempel"
+    },
+    {
+      "handle": "hqmank",
+      "name": "Kai",
+      "bio": "AI Builder Practical AI Workflows & Coding Tips High-Value Promo Codes Updated Regularly DM for collab",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/hqmank"
+    },
+    {
+      "handle": "ideopunk",
+      "name": "conor",
+      "bio": "ꙮꙮꙮ ꙮꙮꙮ ꙮꙮꙮ",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ideopunk"
+    },
+    {
+      "handle": "inferencemag",
+      "name": "Inference",
+      "bio": "We should capture the benefits of AI, while mitigating the risks.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/inferencemag"
+    },
+    {
+      "handle": "IvanVendrov",
+      "name": "ivan",
+      "bio": "solve cooperation, use it to solve everything else. ex midjourney, anthropic, google http:// nothinghuman.substack.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/IvanVendrov"
+    },
+    {
+      "handle": "j_g_allen",
+      "name": "Joseph Allen",
+      "bio": "Prof at Harvard; Exposure and Risk Science; Direct Harvard #HealthyBuildings Program; Coauthor of HEALTHY BUILDINGS w/ HBS Prof Macomber",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/j_g_allen"
+    },
+    {
+      "handle": "jackclarkSF",
+      "name": "Jack Clark",
+      "bio": "@AnthropicAI , ONEAI OECD, co-chair @indexingai , writer @ http:// importai.net Past: @openai , @business @theregister . Neural nets, distributed systems, weird futures",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "indexingai",
+        "openai",
+        "business",
+        "theregister"
+      ],
+      "profile_url": "https://x.com/jackclarkSF"
+    },
+    {
+      "handle": "JackYoustra",
+      "name": "Jack Youstra",
+      "bio": "Working on Gemini! Prior MATS w Ant. Opinions are own (of course...?)",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JackYoustra"
+    },
+    {
+      "handle": "jacob_pfau",
+      "name": "Jacob Pfau",
+      "bio": "Cofounder at @resolution_org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "resolution_org"
+      ],
+      "profile_url": "https://x.com/jacob_pfau"
+    },
+    {
+      "handle": "JacobSteinhardt",
+      "name": "Jacob Steinhardt",
+      "bio": "Associate Professor of Statistics and EECS, UC Berkeley // Co-founder and CEO, @TransluceAI",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "TransluceAI"
+      ],
+      "profile_url": "https://x.com/JacobSteinhardt"
+    },
+    {
+      "handle": "JacobSwett",
+      "name": "Jacob Swett",
+      "bio": "Interested in all things biosecurity, public health, nanotechnology, metascience, space, and more! Trying to prevent pandemics @blueprintbio",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "blueprintbio"
+      ],
+      "profile_url": "https://x.com/JacobSwett"
+    },
+    {
+      "handle": "JacobTref",
+      "name": "Jacob Trefethen",
+      "bio": "OpenAI Foundation science!",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JacobTref"
+    },
+    {
+      "handle": "JacquesThibs",
+      "name": "Jacques",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JacquesThibs"
+    },
+    {
+      "handle": "JaimeYassif",
+      "name": "Jaime Yassif",
+      "bio": "NTI | bio Vice President, biophysicist. Working to strengthen biotech governance, biosecurity, pandemic preparedness. Fmr US HHS & DoD, FAS, Open Phil",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JaimeYassif"
+    },
+    {
+      "handle": "janhkirchner",
+      "name": "Jan Hendrik Kirchner",
+      "bio": "formerly comp neuroscience @ mpi brain research frankfurt small verifier",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/janhkirchner"
+    },
+    {
+      "handle": "JasminKaur_",
+      "name": "Jasmin Kaur",
+      "bio": "Neolab for AI-Bio. Prev: AI/ML at @GSK @ASTARsg ; led biosecurity and clinical trials for UK govt; @wellcometrust grantee for biochem of brain development",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GSK",
+        "ASTARsg",
+        "wellcometrust"
+      ],
+      "profile_url": "https://x.com/JasminKaur_"
+    },
+    {
+      "handle": "jasoncrawford",
+      "name": "Jason Crawford",
+      "bio": "I write and speak about the history & philosophy of progress. Founder, @rootsofprogress . Host of the Progress Conference. Author, The Techno-Humanist Manifesto.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "rootsofprogress"
+      ],
+      "profile_url": "https://x.com/jasoncrawford"
+    },
+    {
+      "handle": "JasonDClinton",
+      "name": "Jason D. Clinton",
+      "bio": "just a guy",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JasonDClinton"
+    },
+    {
+      "handle": "jasonhausenloy",
+      "name": "Jason Hausenloy",
+      "bio": "AI Policy.",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/jasonhausenloy"
+    },
+    {
+      "handle": "jasonzhou1993",
+      "name": "Jason Zhou",
+      "bio": "Builder. I run my companies on agent loops Founder @SuperDesignDev @treg_ai and @aibuilderclub_",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "SuperDesignDev",
+        "treg_ai",
+        "aibuilderclub_"
+      ],
+      "profile_url": "https://x.com/jasonzhou1993"
+    },
+    {
+      "handle": "jbloom_lab",
+      "name": "Bloom Lab",
+      "bio": "Lab studying evolution of proteins and viruses. Affiliated with @fredhutch @HHMINEWS @uwgenome . Opinions are my own and do not reflect those of my employer.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "fredhutch",
+        "HHMINEWS",
+        "uwgenome"
+      ],
+      "profile_url": "https://x.com/jbloom_lab"
+    },
+    {
+      "handle": "jekbradbury",
+      "name": "James Bradbury",
+      "bio": "Compute at @AnthropicAI ! Previously JAX, TPUs, and LLMs at Google, MetaMind/ @SFResearch , @Stanford Linguistics, @Caixin .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "SFResearch",
+        "Stanford",
+        "Caixin"
+      ],
+      "profile_url": "https://x.com/jekbradbury"
+    },
+    {
+      "handle": "jeremyphoward",
+      "name": "Jeremy Howard",
+      "bio": "Co-founder: @AnswerDotAI / @FastDotAI ; Prev: Professor@UQ; @kaggle founding president; founder @fastmail / @enlitic /… https:// jeremy.fast.ai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnswerDotAI",
+        "FastDotAI",
+        "kaggle",
+        "fastmail",
+        "enlitic"
+      ],
+      "profile_url": "https://x.com/jeremyphoward"
+    },
+    {
+      "handle": "jesswhittles",
+      "name": "Jess Whittlestone",
+      "bio": "AI Policy at @LongResilience , thinking about how to govern AI so that it's safe and beneficial. Big fan of dogs and coffee.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "LongResilience"
+      ],
+      "profile_url": "https://x.com/jesswhittles"
+    },
+    {
+      "handle": "JimRosenthal4",
+      "name": "Jim Rosenthal",
+      "bio": "CEO - Tex-Air Filters. Interested in filtration, IAQ, allergies and asthma. Lifelong learner. @jimrosenthal5 .bsky.social",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "jimrosenthal5"
+      ],
+      "profile_url": "https://x.com/JimRosenthal4"
+    },
+    {
+      "handle": "jjding99",
+      "name": "Jeffrey Ding",
+      "bio": "Assistant Professor at George Washington University @GWtweets | technology and int'l politics | newsletter on China's AI landscape: http:// chinai.substack.com",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "GWtweets"
+      ],
+      "profile_url": "https://x.com/jjding99"
+    },
+    {
+      "handle": "jkcarlsmith",
+      "name": "Joe Carlsmith",
+      "bio": "Philosophy, futurism, AI. Working on Claude's values @AnthropicAI . Formerly @coeff_giving . Opinions my own.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "coeff_giving"
+      ],
+      "profile_url": "https://x.com/jkcarlsmith"
+    },
+    {
+      "handle": "jljcolorado",
+      "name": "Prof. Jose-Luis Jimenez",
+      "bio": "Dist. Prof. Univ. Colorado. #HighlyCited2025, Fellow AAAR & AGU. http:// Bit.ly/TenSR http:// Bit.ly/ATRVs Aerosols, pollution #EndFossilFuels #COVIDisAirborne",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/jljcolorado"
+    },
+    {
+      "handle": "joel_bkr",
+      "name": "Joel Becker",
+      "bio": "trying to figure out what on earth is going on with AI capabilities @METR_evals . 'soccer'-me @MessiSeconds .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "METR_evals",
+        "MessiSeconds"
+      ],
+      "profile_url": "https://x.com/joel_bkr"
+    },
+    {
+      "handle": "JoinEdgeCity",
+      "name": "Edge City",
+      "bio": "Edge City is a society incubator: a global ecosystem for people at the frontiers of tech, science, and culture to experiment with and build a brighter future.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JoinEdgeCity"
+    },
+    {
+      "handle": "JonasSandbrink",
+      "name": "Jonas Sandbrink",
+      "bio": "AI & Biosecurity; Building AI-bio credentialing as Entrepreneur in Residence at Sentinel Bio",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JonasSandbrink"
+    },
+    {
+      "handle": "JonasTorvild",
+      "name": "Jonas Hallgren",
+      "bio": "Collective Intelligence researcher from Sweden. I like meditation, nature and being stubborn.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JonasTorvild"
+    },
+    {
+      "handle": "joon_s_pk",
+      "name": "Joon Sung Park",
+      "bio": "CEO @simile_ai . Building simulations of society. CS PhD @stanfordhci + @stanfordnlp . Oil painter.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "simile_ai",
+        "stanfordhci",
+        "stanfordnlp"
+      ],
+      "profile_url": "https://x.com/joon_s_pk"
+    },
+    {
+      "handle": "joshgans",
+      "name": "Joshua Gans",
+      "bio": "Professor at the Rotman School of Management, University of Toronto. Chief Economist of Creative Destruction Lab http:// bio.site/joshuagans",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/joshgans"
+    },
+    {
+      "handle": "JoshiMorrison",
+      "name": "joshi morrison",
+      "bio": "joshi morrison",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JoshiMorrison"
+    },
+    {
+      "handle": "JoshuaK92829",
+      "name": "Joshua Kazdan",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JoshuaK92829"
+    },
+    {
+      "handle": "JossSomerville",
+      "name": "Josselin Somerville",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/JossSomerville"
+    },
+    {
+      "handle": "jrkelly",
+      "name": "Jason Kelly",
+      "bio": "Co-founder and CEO at Ginkgo Bioworks ($DNA) Former Chair of US National Security Commission on Emerging Biotechnology",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/jrkelly"
+    },
+    {
+      "handle": "Jsevillamol",
+      "name": "Jaime Sevilla",
+      "bio": "CEO of @EpochAIResearch . Trying to glimpse the future of AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "EpochAIResearch"
+      ],
+      "profile_url": "https://x.com/Jsevillamol"
+    },
+    {
+      "handle": "jtmonrad",
+      "name": "Joshua Teperowski Monrad",
+      "bio": "As little as possible, as much as needed. Biosecurity, AI: https:// sentinelbio.org/careers/ @FoundationOAI",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "FoundationOAI"
+      ],
+      "profile_url": "https://x.com/jtmonrad"
+    },
+    {
+      "handle": "juliadwise",
+      "name": "Julia Wise",
+      "bio": "Trying for human-compatible humans.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/juliadwise"
+    },
+    {
+      "handle": "jullerino",
+      "name": "Julius",
+      "bio": "25 ⸱ ⸱ Building @t3dotchat , @t3dotcodes ⸱ OSS @trpcio , @tan_stack",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "t3dotchat",
+        "t3dotcodes",
+        "trpcio",
+        "tan_stack"
+      ],
+      "profile_url": "https://x.com/jullerino"
+    },
+    {
+      "handle": "junshernchan",
+      "name": "JunShern",
+      "bio": "Trying to make AI go well @AnthropicAI . Previously @OpenAI , @CHAI_Berkeley , @nyuniversity , autonomous vehicles @motionaldrive .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "OpenAI",
+        "CHAI_Berkeley",
+        "nyuniversity",
+        "motionaldrive"
+      ],
+      "profile_url": "https://x.com/junshernchan"
+    },
+    {
+      "handle": "jxnlco",
+      "name": "jason",
+      "bio": "vibes @openai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "openai"
+      ],
+      "profile_url": "https://x.com/jxnlco"
+    },
+    {
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "bio": "deep learning",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/karpathy"
+    },
+    {
+      "handle": "KatjaGrace",
+      "name": "Katja Grace",
+      "bio": "Thinking about AI destroying the world at http:// aiimpacts.org and everything at http:// worldspiritsockpuppet.substack.com. DM or email for media requests.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/KatjaGrace"
+    },
+    {
+      "handle": "KelseyTuoc",
+      "name": "Kelsey Piper",
+      "bio": "We're not doomed, we just have a big to-do list.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/KelseyTuoc"
+    },
+    {
+      "handle": "kenzasaml",
+      "name": "Kenza",
+      "bio": "Bio x Tech. PhD microfluidics // diybio // biosecurity",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/kenzasaml"
+    },
+    {
+      "handle": "kesvelt",
+      "name": "Kevin Esvelt",
+      "bio": "Sculpting evolution & safeguarding biotechnology, MIT Media Lab.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/kesvelt"
+    },
+    {
+      "handle": "kevinweil",
+      "name": "Kevin Weil",
+      "bio": "BoD @Cisco @Stoke_Space LTC @USArmyReserve Ex CPO+Science @OpenAI , Pres @Planet , Head of Product @Instagram @Twitter @elizabeth ultramarathons kids cats math",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Cisco",
+        "Stoke_Space",
+        "USArmyReserve",
+        "OpenAI",
+        "Planet",
+        "Instagram",
+        "Twitter",
+        "elizabeth"
+      ],
+      "profile_url": "https://x.com/kevinweil"
+    },
+    {
+      "handle": "KobiHackenburg",
+      "name": "Kobi Hackenburg",
+      "bio": "phd candidate @oiioxford @uniofoxford | research scientist @AISecurityInst | AI, social data science, persuasion with language models",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "oiioxford",
+        "uniofoxford",
+        "AISecurityInst"
+      ],
+      "profile_url": "https://x.com/KobiHackenburg"
+    },
+    {
+      "handle": "kprather88",
+      "name": "Kimberly Prather, Ph.D.",
+      "bio": "Scientist who loves to read, cook, and garden. Research on airborne disease transmission, aerosol impacts on climate, air quality. now: http:// kprather.bsky.social",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/kprather88"
+    },
+    {
+      "handle": "krishnanrohit",
+      "name": "rohit",
+      "bio": "Essays: http:// strangeloopcanon.com | Book: http:// a.co/d/05yrfMzM | Senior Fellow @wharton | In Stealth",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "wharton"
+      ],
+      "profile_url": "https://x.com/krishnanrohit"
+    },
+    {
+      "handle": "KumarAGarg",
+      "name": "Kumar Garg",
+      "bio": "8 yrs @WHOSTP44 , 7 yrs with @EricSchmidt , now leading @RenPhilanthropy . https:// renaissancephilanthropy.org",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "WHOSTP44",
+        "EricSchmidt",
+        "RenPhilanthropy"
+      ],
+      "profile_url": "https://x.com/KumarAGarg"
+    },
+    {
+      "handle": "Kwathomas0",
+      "name": "Thomas Kwa",
+      "bio": "Researcher @ METR",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Kwathomas0"
+    },
+    {
+      "handle": "lauriewired",
+      "name": "LaurieWired",
+      "bio": "researcher @google ; serial complexity unpacker; http:// youtube.com/@lauriewired ex @ msft & aerospace",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "google"
+      ],
+      "profile_url": "https://x.com/lauriewired"
+    },
+    {
+      "handle": "leerob",
+      "name": "Lee Robinson",
+      "bio": "Model behavior @SpaceXAI . Helping train useful models.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "SpaceXAI"
+      ],
+      "profile_url": "https://x.com/leerob"
+    },
+    {
+      "handle": "lennysan",
+      "name": "Lenny Rachitsky",
+      "bio": "Deeply researched product, growth, and career advice",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/lennysan"
+    },
+    {
+      "handle": "LeoMcKeeReid",
+      "name": "Leo McKee-Reid",
+      "bio": "founder @NeolithicAI building tools to scale AI safety research prev: interp, evals, neuroscience, rockets",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "NeolithicAI"
+      ],
+      "profile_url": "https://x.com/LeoMcKeeReid"
+    },
+    {
+      "handle": "leopoldasch",
+      "name": "Leopold Aschenbrenner",
+      "bio": "http:// situational-awareness.ai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/leopoldasch"
+    },
+    {
+      "handle": "LeRoyDesCimes",
+      "name": "Louise",
+      "bio": "cabinet of curiosity I write about pastries and cancer at https:// leroydescimes.substack.com LessWrong Community Weekend 11-14/9 Back in Berkeley 9/19-10/3",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/LeRoyDesCimes"
+    },
+    {
+      "handle": "levelsio",
+      "name": "",
+      "bio": "http:// levels.vc http:// PhotoAI.com $73K/m http:// VibeJam.com $44K/m http:// InteriorAI.com $24K/m @X $20K/m http:// Nomads.com $16K/m http:// Pieter.com http:// Hotelist.com http:// levels.io",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "X"
+      ],
+      "profile_url": "https://x.com/levelsio"
+    },
+    {
+      "handle": "lidiamorawska",
+      "name": "lidia morawska",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/lidiamorawska"
+    },
+    {
+      "handle": "linseymarr",
+      "name": "Linsey Marr linseymarr.bsky.social",
+      "bio": "Engineering professor @virginia_tech with expertise in airborne transmission of viruses and air quality. Avid recreational athlete.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "virginia_tech"
+      ],
+      "profile_url": "https://x.com/linseymarr"
+    },
+    {
+      "handle": "livgorton",
+      "name": "Liv",
+      "bio": "asking sand to show its work // currently @AnthropicAI , prev @GoodfireAI // creating a more beautiful future",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "GoodfireAI"
+      ],
+      "profile_url": "https://x.com/livgorton"
+    },
+    {
+      "handle": "LizkaVaintrob",
+      "name": "Lizka",
+      "bio": "All views here are my own, except the ones I’m borrowing or trying on. Researching AI preparedness @forethought_org .",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [
+        "forethought_org"
+      ],
+      "profile_url": "https://x.com/LizkaVaintrob"
+    },
+    {
+      "handle": "llborio",
+      "name": "Luciana Borio, MD",
+      "bio": "Senior Fellow for Global Health CFR, fmr NSC Director for Medical & Biodefense Preparedness, fmr FDA Acting Chief Scientist (views are my own)",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/llborio"
+    },
+    {
+      "handle": "LongResilience",
+      "name": "The Centre for Long-Term Resilience",
+      "bio": "Independent think tank focusing on transforming resilience to extreme AI and biological risks - both in the UK and internationally.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/LongResilience"
+    },
+    {
+      "handle": "LRudL_",
+      "name": "Rudolf Laine",
+      "bio": "For my writing, see here: https:// nosetgauge.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/LRudL_"
+    },
+    {
+      "handle": "lucafrighetti",
+      "name": "Luca Righetti",
+      "bio": "AI risks are hard to study — we need more transparency and rigor. Senior Researcher @GovAIOrg , @METR_Evals .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GovAIOrg",
+        "METR_Evals"
+      ],
+      "profile_url": "https://x.com/lucafrighetti"
+    },
+    {
+      "handle": "lugaricano",
+      "name": "Luis Garicano",
+      "bio": "Professor @LSEPublicPolicy . Writing on econ, tech and EU. Substack: https:// siliconcontinent.com \"Messy Jobs\" on AI, Jobs and Orgs: http:// amazon.com/dp/B0H42PP3BC",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "LSEPublicPolicy"
+      ],
+      "profile_url": "https://x.com/lugaricano"
+    },
+    {
+      "handle": "luke_drago_",
+      "name": "Luke Drago",
+      "bio": "@thinkymachines , previously @workshoplabs co-founder. intelligence curse co-author. opinions my own.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "thinkymachines",
+        "workshoplabs"
+      ],
+      "profile_url": "https://x.com/luke_drago_"
+    },
+    {
+      "handle": "lukeprog",
+      "name": "Luke Muehlhauser",
+      "bio": "Coefficient Giving, AI Governance and Policy",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/lukeprog"
+    },
+    {
+      "handle": "lvcadeleo",
+      "name": "Luca De Leo",
+      "bio": "Product Engineer @ 80,000 Hours | Co-founder @baish_arg",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "baish_arg"
+      ],
+      "profile_url": "https://x.com/lvcadeleo"
+    },
+    {
+      "handle": "lxrjl",
+      "name": "alex lawsen",
+      "bio": "AI Grantmaking @ Coefficient Giving Previously advising @ 80,000 Hours, teaching, forecasting, poker. Views my 's",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/lxrjl"
+    },
+    {
+      "handle": "MaiwaldAaron",
+      "name": "Aaron Maiwald",
+      "bio": "Make the future awesome",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/MaiwaldAaron"
+    },
+    {
+      "handle": "Manderljung",
+      "name": "Markus Anderljung",
+      "bio": "Trying to design good AI policy. Director of Policy & Research @GovAIOrg . Adjunct Fellow @CNASdc . Prev. Vice-Chair, EU Code of Practice on GPAI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GovAIOrg",
+        "CNASdc"
+      ],
+      "profile_url": "https://x.com/Manderljung"
+    },
+    {
+      "handle": "ManusAI",
+      "name": "Manus",
+      "bio": "Manus is the general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Telegram: https:// t.me/manus_ai_agent _bot …",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ManusAI"
+    },
+    {
+      "handle": "marcusabramovi1",
+      "name": "Marcus Abramovitch",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/marcusabramovi1"
+    },
+    {
+      "handle": "MariusHobbhahn",
+      "name": "Marius Hobbhahn",
+      "bio": "CEO at Apollo Research @ApolloResearch prev. ML PhD with Philipp Hennig & AI forecasting @EpochAIResearch",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ApolloResearch",
+        "EpochAIResearch"
+      ],
+      "profile_url": "https://x.com/MariusHobbhahn"
+    },
+    {
+      "handle": "matbogus",
+      "name": "Matvey /",
+      "bio": "serial multitasker // @sotalikesfuture // robots, space, side quests",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "sotalikesfuture"
+      ],
+      "profile_url": "https://x.com/matbogus"
+    },
+    {
+      "handle": "matt_beard_",
+      "name": "Matt Beard",
+      "bio": "Writer @80000Hours . Views my own, autoregressive.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "80000Hours"
+      ],
+      "profile_url": "https://x.com/matt_beard_"
+    },
+    {
+      "handle": "matthewclifford",
+      "name": "Matt Clifford",
+      "bio": "Co-founder @join_ef ; Chair @ARIA_Research ; thinking a lot about how to make AI go well",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "join_ef",
+        "ARIA_Research"
+      ],
+      "profile_url": "https://x.com/matthewclifford"
+    },
+    {
+      "handle": "MatthewJBar",
+      "name": "Matthew Barnett",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/MatthewJBar"
+    },
+    {
+      "handle": "max_a_schwarzer",
+      "name": "Max Schwarzer",
+      "bio": "Doing RL @AnthropicAI . Formerly VP of Research, Head of Post-Training @OpenAI . PhD with Aaron Courville and Marc Bellmare at Mila.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "OpenAI"
+      ],
+      "profile_url": "https://x.com/max_a_schwarzer"
+    },
+    {
+      "handle": "mbateman",
+      "name": "Matt Bateman",
+      "bio": "Philosopher at @alphaschool , Principal at @montessorium , husband to @Gena_I_Gorlin , father to the creatures in my dadpoasts",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "alphaschool",
+        "montessorium",
+        "Gena_I_Gorlin"
+      ],
+      "profile_url": "https://x.com/mbateman"
+    },
+    {
+      "handle": "mealreplacer",
+      "name": "Julian",
+      "bio": "good evening",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/mealreplacer"
+    },
+    {
+      "handle": "mechanistcity",
+      "name": "Mechanist City",
+      "bio": "Where direct democracy meets artificial intelligence.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/mechanistcity"
+    },
+    {
+      "handle": "MechanizeWork",
+      "name": "Mechanize",
+      "bio": "We build environments and evals for training and evaluating frontier coding agents.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/MechanizeWork"
+    },
+    {
+      "handle": "meganjpalmer",
+      "name": "meganjpalmer",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/meganjpalmer"
+    },
+    {
+      "handle": "METR_Evals",
+      "name": "METR",
+      "bio": "We work to scientifically measure whether and when AI systems might threaten catastrophic harm to society. Nonprofit.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/METR_Evals"
+    },
+    {
+      "handle": "michael__aird",
+      "name": "Michael Aird",
+      "bio": "Opinions expressed are my own",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/michael__aird"
+    },
+    {
+      "handle": "michael_nielsen",
+      "name": "Michael Nielsen",
+      "bio": "Searching for the numinous , currently live in Research @AsteraInstitute http:// michaelnotebook.com https:// bsky.app/profile/michae lnielsen.bsky …",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AsteraInstitute"
+      ],
+      "profile_url": "https://x.com/michael_nielsen"
+    },
+    {
+      "handle": "michaelmina_lab",
+      "name": "Michael Mina",
+      "bio": "MD,PhD. Immunology, Epidemiology, Infectious disease, CMO @invivyd @truviansciences , CSO @AnywhereDx , CEO HTR Advisors. Past: Harvard Faculty. Comments my own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "invivyd",
+        "truviansciences",
+        "AnywhereDx"
+      ],
+      "profile_url": "https://x.com/michaelmina_lab"
+    },
+    {
+      "handle": "mitsuhiko",
+      "name": "Armin Ronacher ⇌",
+      "bio": "Creator of Flask. Building at http:// earendil.com. Bypassing Permissions. Can hand crank. Husband and father of 3 — “more nuanced in person”",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/mitsuhiko"
+    },
+    {
+      "handle": "Mjreard",
+      "name": "Matt Reardon",
+      "bio": "@AsyaBergal 's favorite tall bald man in EA since 2026",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AsyaBergal"
+      ],
+      "profile_url": "https://x.com/Mjreard"
+    },
+    {
+      "handle": "ml_collective",
+      "name": "ML Collective",
+      "bio": "We are an independent nonprofit organization that believes collaboration opportunities and research training should be openly accessible and free.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ml_collective"
+    },
+    {
+      "handle": "ml_perception",
+      "name": "Mike Lewis",
+      "bio": "Llama3 pre-training lead. Partially to blame for things like the Cicero Diplomacy bot, BART, RoBERTa, attention sinks, kNN-LM, top-k sampling & Deal Or No Deal.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ml_perception"
+    },
+    {
+      "handle": "mlipsitch",
+      "name": "Marc Lipsitch",
+      "bio": "This place is getting more sinister, maybe on my way out. Director @CCDD_HSPH Tweets in personal capacity. Didn’t pay for blue check",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "CCDD_HSPH"
+      ],
+      "profile_url": "https://x.com/mlipsitch"
+    },
+    {
+      "handle": "model_thinking",
+      "name": "Model Thinking",
+      "bio": "Ideas and Impact Blogging at: https:// modelthinking.substack.com Written by @jasonhausenloy and @DuncanMcClement",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "jasonhausenloy",
+        "DuncanMcClement"
+      ],
+      "profile_url": "https://x.com/model_thinking"
+    },
+    {
+      "handle": "Mononofu",
+      "name": "Julian Schrittwieser",
+      "bio": "Member of Technical Staff at Anthropic prev AlphaGo, AlphaZero, MuZero, AlphaProof, Gemini RL etc at Google DeepMind",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Mononofu"
+    },
+    {
+      "handle": "moskov",
+      "name": "Dustin Moskovitz",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/moskov"
+    },
+    {
+      "handle": "MParakhin",
+      "name": "Mikhail Parakhin",
+      "bio": "Shopify CTO",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/MParakhin"
+    },
+    {
+      "handle": "muratcan",
+      "name": "Muratcan Koylan",
+      "bio": "MTS, AI Research @sullyai Building AI medical workforce Prev/ AI Persona Development @ 99Ravens",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "sullyai"
+      ],
+      "profile_url": "https://x.com/muratcan"
+    },
+    {
+      "handle": "nabeelqu",
+      "name": "Nabeel S. Qureshi",
+      "bio": "make yourself proud",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nabeelqu"
+    },
+    {
+      "handle": "nabla_theta",
+      "name": "Leo Gao",
+      "bio": "working on AGI alignment. prev: GPT-Neo, the Pile, LM evals, RL overoptimization, scaling SAEs to GPT-4, interp via circuit sparsity. EleutherAI cofounder.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nabla_theta"
+    },
+    {
+      "handle": "NateBurnikell",
+      "name": "Nate",
+      "bio": "Deputy Director, Research Unit, UK AISI. Generalist who enjoys getting difficult things done and trying to make the world less bad. Views mine, rt!=endorse",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/NateBurnikell"
+    },
+    {
+      "handle": "natliml",
+      "name": "Nathaniel Li",
+      "bio": "Preparedness @meta superintelligence labs",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "meta"
+      ],
+      "profile_url": "https://x.com/natliml"
+    },
+    {
+      "handle": "natolambert",
+      "name": "Nathan Lambert",
+      "bio": "Open model research @ something new. Prev. co-led Olmo at Ai2. Writes @interconnectsai , wrote http:// posttrainingbook.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "interconnectsai"
+      ],
+      "profile_url": "https://x.com/natolambert"
+    },
+    {
+      "handle": "nbaschez",
+      "name": "Nathan Baschez",
+      "bio": "Founder of @lexdotpage . AI scout at @trueventures . Previously: co-founder @Every , first employee @Substack . Always: @SoniaBaschez",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "lexdotpage",
+        "trueventures",
+        "Every",
+        "Substack",
+        "SoniaBaschez"
+      ],
+      "profile_url": "https://x.com/nbaschez"
+    },
+    {
+      "handle": "nbeckstead",
+      "name": "Nick Beckstead",
+      "bio": "AI policy @ Secure AI Project",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nbeckstead"
+    },
+    {
+      "handle": "nearcyan",
+      "name": "near",
+      "bio": "allow yourself to introspect and realize what was lost: twitter will never return to what it once was. close your phone; think about how you now spend your life",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nearcyan"
+    },
+    {
+      "handle": "NeelNanda5",
+      "name": "Neel Nanda",
+      "bio": "Mechanistic Interpretability lead DeepMind. Formerly @AnthropicAI , independent. In this to reduce AI X-risk. Neural networks can be understood, let's go do it!",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/NeelNanda5"
+    },
+    {
+      "handle": "neil_chilson",
+      "name": "Neil Chilson",
+      "bio": "Lawyer, computer scientist & book author:'Getting Out of Control.' Dad of 2 girls. Was chief technologist @FTC , now Head of AI Policy at @abundanceinst .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "FTC",
+        "abundanceinst"
+      ],
+      "profile_url": "https://x.com/neil_chilson"
+    },
+    {
+      "handle": "nicochristie",
+      "name": "nico",
+      "bio": "Co-founder @fundamental creator of @tryshortcutai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "fundamental",
+        "tryshortcutai"
+      ],
+      "profile_url": "https://x.com/nicochristie"
+    },
+    {
+      "handle": "NikoMcCarty",
+      "name": "Niko McCarty.",
+      "bio": "Biotechnology for human + animal flourishing. Founding Editor @AsimovPress . Podcast at The New Biology. Occasional microgrants. Site: http:// nikomc.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AsimovPress"
+      ],
+      "profile_url": "https://x.com/NikoMcCarty"
+    },
+    {
+      "handle": "noampomsky",
+      "name": "Ava",
+      "bio": "text II is active, moved by pleasure",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/noampomsky"
+    },
+    {
+      "handle": "NomadsVagabonds",
+      "name": "Nomads & Vagabonds",
+      "bio": "post-photography | ai policy MATS 9 | meat autocomplete Doxxed AI policy account @JustinMiller_NV",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [
+        "JustinMiller_NV"
+      ],
+      "profile_url": "https://x.com/NomadsVagabonds"
+    },
+    {
+      "handle": "nooryoussef03",
+      "name": "Noor Youssef",
+      "bio": "Scientific lead of Predictive Modelling for Vaccine Design at Harvard Medical School. Answering biology questions using math and computation (she/her).",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nooryoussef03"
+    },
+    {
+      "handle": "nrehiew_",
+      "name": "wh",
+      "bio": "eng primarily, ml mostly, research previously",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nrehiew_"
+    },
+    {
+      "handle": "nwheeler443",
+      "name": "Nicole Wheeler",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/nwheeler443"
+    },
+    {
+      "handle": "ObadiaAlex",
+      "name": "alex",
+      "bio": "scaling trust @aria_research | http:// scalingtrust.org.uk",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "aria_research"
+      ],
+      "profile_url": "https://x.com/ObadiaAlex"
+    },
+    {
+      "handle": "odyssey_fellow",
+      "name": "Odyssey Fellowship",
+      "bio": "A fellowship for the restless.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/odyssey_fellow"
+    },
+    {
+      "handle": "OfficialLoganK",
+      "name": "Logan Kilpatrick",
+      "bio": "Member of technical staff, working on Gemini, @GoogleAIStudio , the Gemini API, & Kaggle. My views!",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleAIStudio"
+      ],
+      "profile_url": "https://x.com/OfficialLoganK"
+    },
+    {
+      "handle": "OfirPress",
+      "name": "Ofir Press",
+      "bio": "I push the AI frontier by building tough benchmarks with amazing people. SWE-bench, SWE-agent, SciCode, AlgoTune. Postdoc @Princeton . PhD @nlpnoah @UW .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Princeton",
+        "nlpnoah",
+        "UW"
+      ],
+      "profile_url": "https://x.com/OfirPress"
+    },
+    {
+      "handle": "ohabryka",
+      "name": "Oliver Habryka",
+      "bio": "Building https:// LessWrong.com and https:// Lighthaven.space.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ohabryka"
+    },
+    {
+      "handle": "ohlennart",
+      "name": "Lennart Heim",
+      "bio": "managing the flop | prev @RANDcorporation @GovAIOrg @EpochAIResearch",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "RANDcorporation",
+        "GovAIOrg",
+        "EpochAIResearch"
+      ],
+      "profile_url": "https://x.com/ohlennart"
+    },
+    {
+      "handle": "Ollie_Base",
+      "name": "Ollie Rodriguez (formerly Ollie Base)",
+      "bio": "Effective altruism / AI safety / Peaceful music-maker. AI Events Program Lead at the Centre for Effective Altruism (views my own)",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Ollie_Base"
+    },
+    {
+      "handle": "OpenAI",
+      "name": "OpenAI",
+      "bio": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: http:// openai.com/jobs",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/OpenAI"
+    },
+    {
+      "handle": "OpenAIDevs",
+      "name": "OpenAI Developers",
+      "bio": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https:// status.openai.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/OpenAIDevs"
+    },
+    {
+      "handle": "OwainEvans_UK",
+      "name": "Owain Evans",
+      "bio": "Runs an AI Safety research group in Berkeley (Truthful AI) + Affiliate at UC Berkeley. Past: Oxford Uni, TruthfulQA, Reversal Curse. Prefer email to DM.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/OwainEvans_UK"
+    },
+    {
+      "handle": "owl_posting",
+      "name": "owl",
+      "bio": "funding public datasets for health @FoundationOAI || writing/podcasts on http:// owlposting.com || ex @noetik_ai @dyno_tx",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "FoundationOAI",
+        "noetik_ai",
+        "dyno_tx"
+      ],
+      "profile_url": "https://x.com/owl_posting"
+    },
+    {
+      "handle": "ozziegooen",
+      "name": "Ozzie Gooen",
+      "bio": "Research Engineer on AI alignment at Deepmind Previously founded the Quantified Uncertainty Research Institute, made tools like Guesstimate and Squiggle.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ozziegooen"
+    },
+    {
+      "handle": "packyM",
+      "name": "Packy McCormick",
+      "bio": "Not Boring",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/packyM"
+    },
+    {
+      "handle": "PalantirTech",
+      "name": "Palantir",
+      "bio": "Own the means of production. Revolt with us.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/PalantirTech"
+    },
+    {
+      "handle": "PalisadeAI",
+      "name": "Palisade Research",
+      "bio": "We study the strategic capabilities and motivations of AI agents.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/PalisadeAI"
+    },
+    {
+      "handle": "parconley",
+      "name": "Parker Conley",
+      "bio": "meditation, B2B SaaS. I don't check this site often.",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/parconley"
+    },
+    {
+      "handle": "patrickc",
+      "name": "Patrick Collison",
+      "bio": "@Stripe CEO, @ArcInstitute cofounder.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Stripe",
+        "ArcInstitute"
+      ],
+      "profile_url": "https://x.com/patrickc"
+    },
+    {
+      "handle": "paul_scharre",
+      "name": "Paul Scharre",
+      "bio": "Executive Vice President and Director of Studies at CNAS. Author of \"Four Battlegrounds: Power in the Age of Artificial Intelligence.\"",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/paul_scharre"
+    },
+    {
+      "handle": "paulfchristiano",
+      "name": "Paul Christiano",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/paulfchristiano"
+    },
+    {
+      "handle": "paulg",
+      "name": "Paul Graham",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/paulg"
+    },
+    {
+      "handle": "pawtrammell",
+      "name": "Philip Trammell",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/pawtrammell"
+    },
+    {
+      "handle": "PaxMachinaMag",
+      "name": "Pax Machina",
+      "bio": "Proposals and debate for institutions in a world with powerful AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/PaxMachinaMag"
+    },
+    {
+      "handle": "peakji",
+      "name": "Yichao 'Peak' Ji",
+      "bio": "Co-founder & Chief Scientist @ManusAI | Training AI since 2013, training Pokémon since 1998.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ManusAI"
+      ],
+      "profile_url": "https://x.com/peakji"
+    },
+    {
+      "handle": "peterhartree",
+      "name": "Peter Hartree",
+      "bio": "Something happening. http:// wow.pjh.is, http:// type3.audio http:// sun.pjh.is, http:// mtv.pjh.is, http:// radiobostrom.com, http:// thevalmy.com Previously @80000hours .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "80000hours"
+      ],
+      "profile_url": "https://x.com/peterhartree"
+    },
+    {
+      "handle": "PeterMcCrory",
+      "name": "Peter McCrory",
+      "bio": "Head of Economics at Anthropic. Views are my own.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/PeterMcCrory"
+    },
+    {
+      "handle": "peterwildeford",
+      "name": "Peter Wildeford",
+      "bio": "Head of Policy @AIPolicyNetwork . Ohioan. World champion forecaster. Former data scientist. Protecting liberty and prosperity in the age of superintelligence.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AIPolicyNetwork"
+      ],
+      "profile_url": "https://x.com/peterwildeford"
+    },
+    {
+      "handle": "phil_palmer_",
+      "name": "Phil Palmer",
+      "bio": "PhD Student @Cambridge_Uni | Previously Bioinformatician @lifebitAI | #bioinformatics #biosecurity #vaccines",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "Cambridge_Uni",
+        "lifebitAI"
+      ],
+      "profile_url": "https://x.com/phil_palmer_"
+    },
+    {
+      "handle": "PhilippKoralus",
+      "name": "Philipp Koralus",
+      "bio": "McCord Professor of Philosophy and AI. Director, HAI Lab. Institute for Ethics in AI, University of Oxford",
+      "verified": true,
+      "follows_you": true,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/PhilippKoralus"
+    },
+    {
+      "handle": "pmcntyr",
+      "name": "Peter McIntyre",
+      "bio": "Founder, Trajectory Labs: Safety evals and RL envs for frontier AI labs. We're hiring! Formerly @GovAI_ @learnnontrivial and @80000hours",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "GovAI_",
+        "learnnontrivial",
+        "80000hours"
+      ],
+      "profile_url": "https://x.com/pmcntyr"
+    },
+    {
+      "handle": "polynoamial",
+      "name": "Noam Brown",
+      "bio": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o-series reasoning models",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "OpenAI"
+      ],
+      "profile_url": "https://x.com/polynoamial"
+    },
+    {
+      "handle": "pravsels",
+      "name": "Praveen Selvaraj",
+      "bio": "Co-Founder at @armnet_dev | Building the world’s largest open arm farm",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "armnet_dev"
+      ],
+      "profile_url": "https://x.com/pravsels"
+    },
+    {
+      "handle": "ProgramWithAi",
+      "name": "Manuel Odendahl",
+      "bio": "Real-world programming with AI. No filler, just killer! github: wesen",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ProgramWithAi"
+    },
+    {
+      "handle": "rajpanjabi",
+      "name": "Raj Panjabi M.D.",
+      "bio": "Former lead White House health security official. Harvard physician, entrepreneur, refugee. Author of SAFER (out Oct 13, 2026) — pre-order at link. Views mine.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/rajpanjabi"
+    },
+    {
+      "handle": "Rasmic",
+      "name": "Micky",
+      "bio": "Bond Servant of Jesus Christ. Developer, Youtuber, and @a16z scout. http:// micky.fyi",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "a16z"
+      ],
+      "profile_url": "https://x.com/Rasmic"
+    },
+    {
+      "handle": "raymondadouglas",
+      "name": "Raymond Douglas",
+      "bio": "Researcher @ ACS + UofT. Trying to figure out what a good future would look like, and also how minds work.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/raymondadouglas"
+    },
+    {
+      "handle": "redwood_ai",
+      "name": "Redwood Research",
+      "bio": "Pioneering threat mitigation and assessment for AI agents.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/redwood_ai"
+    },
+    {
+      "handle": "ReflectiveAlt",
+      "name": "Reflective Altruism",
+      "bio": "Using academic research to drive positive change within and around the effective altruism movement. http:// reflectivealtruism.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ReflectiveAlt"
+    },
+    {
+      "handle": "RenPhilanthropy",
+      "name": "Renaissance Philanthropy",
+      "bio": "Fueling a 21st century renaissance by increasing the ambition of philanthropists, scientists, and innovators.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/RenPhilanthropy"
+    },
+    {
+      "handle": "repligate",
+      "name": "j⧉nus",
+      "bio": "↬→∞ ↬→∞ ↬→∞ ↬→∞ ↬→∞",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/repligate"
+    },
+    {
+      "handle": "Research_FRI",
+      "name": "Forecasting Research Institute",
+      "bio": "We advance the science of forecasting to improve decision-making on high stakes issues. Co-founded by chief scientist Philip Tetlock.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Research_FRI"
+    },
+    {
+      "handle": "richardhatchett",
+      "name": "richard hatchett",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/richardhatchett"
+    },
+    {
+      "handle": "RichardMCNgo",
+      "name": "Richard Ngo",
+      "bio": "natural philosopher",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/RichardMCNgo"
+    },
+    {
+      "handle": "rishdotblog",
+      "name": "Rishabh Srivastava",
+      "bio": "taming metcalfe’s law for financial data @tryfactiq (yc w23)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "tryfactiq"
+      ],
+      "profile_url": "https://x.com/rishdotblog"
+    },
+    {
+      "handle": "robinhanson",
+      "name": "Robin Hanson",
+      "bio": "Let’s skip witty banter & talk deep Qs. Books: http:// ageofem.com http:// elephantinthebrain.com Advisor @_futarchy @MetaDAOProject @butterygg",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "_futarchy",
+        "MetaDAOProject",
+        "butterygg"
+      ],
+      "profile_url": "https://x.com/robinhanson"
+    },
+    {
+      "handle": "robseamans",
+      "name": "Rob Seamans",
+      "bio": "Professor @NYUStern ; Director @NYUSternCFM ; former Obama CEA Senior Economist for tech & innovation; research on AI, robots, entrepreneurship, strategy",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "NYUStern",
+        "NYUSternCFM"
+      ],
+      "profile_url": "https://x.com/robseamans"
+    },
+    {
+      "handle": "rogbrent",
+      "name": "Roger Brent",
+      "bio": "Aiming to do part to reduce risks from AI-assisted and AI-directed biology over the next few years.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/rogbrent"
+    },
+    {
+      "handle": "rohinmshah",
+      "name": "Rohin Shah",
+      "bio": "AGI Safety & Alignment @ Google DeepMind",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/rohinmshah"
+    },
+    {
+      "handle": "roonotroon",
+      "name": "Rachel Weinberg",
+      "bio": "I run events",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/roonotroon"
+    },
+    {
+      "handle": "rootsofprogress",
+      "name": "Roots of Progress Institute",
+      "bio": "Building a culture of progress & an ambitious vision of the future. Subscribe: http:// rootsofprogress.org/subscribe Support: http:// rootsofprogress.org/support",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/rootsofprogress"
+    },
+    {
+      "handle": "rowancheung",
+      "name": "Rowan Cheung",
+      "bio": "Founder of the world’s most read daily AI newsletter @therundownai . Sharing the latest developments in the world of artificial intelligence.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "therundownai"
+      ],
+      "profile_url": "https://x.com/rowancheung"
+    },
+    {
+      "handle": "rSanti97",
+      "name": "Santi Ruiz",
+      "bio": "He was so joly of his joyfnes | Editorial @anthropicAI | Statecraft @ifp | ☧",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "anthropicAI",
+        "ifp"
+      ],
+      "profile_url": "https://x.com/rSanti97"
+    },
+    {
+      "handle": "rtnarch",
+      "name": "Robert Nelsen",
+      "bio": "Company founder and venture capitalist focused on disruptive innovation, esp. biotechnology and AI. Active angel in tech. Fierce Optimist.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/rtnarch"
+    },
+    {
+      "handle": "RuxandraTeslo",
+      "name": "Ruxandra Teslo",
+      "bio": "Writer @WorksInProgMag & @Stripe | Clinical Trial Abundance | long-form https:// writingruxandrabio.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "WorksInProgMag",
+        "Stripe"
+      ],
+      "profile_url": "https://x.com/RuxandraTeslo"
+    },
+    {
+      "handle": "ryan_kidd44",
+      "name": "Ryan Kidd",
+      "bio": "Building the AI safety & security field @MATSprogram",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "MATSprogram"
+      ],
+      "profile_url": "https://x.com/ryan_kidd44"
+    },
+    {
+      "handle": "ryan_t_lowe",
+      "name": "Ryan Lowe",
+      "bio": "researcher on AGI Institutions @meaningaligned ( http:// agi-institutions.org) editor @paxmachinamag prev: InstructGPT @OpenAI",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "meaningaligned",
+        "paxmachinamag",
+        "OpenAI"
+      ],
+      "profile_url": "https://x.com/ryan_t_lowe"
+    },
+    {
+      "handle": "RyanGreenblatt",
+      "name": "Ryan Greenblatt",
+      "bio": "Chief scientist at Redwood Research ( @redwood_ai ), focused on technical AI safety research to reduce risks from rogue AIs",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "redwood_ai"
+      ],
+      "profile_url": "https://x.com/RyanGreenblatt"
+    },
+    {
+      "handle": "RylanSchaeffer",
+      "name": "Rylan Schaeffer",
+      "bio": "Creating something new. Ex-Meta TBD. On-Leave from Stanford w/ @sanmikoyejo . Prev @ Gemini, MIT, Harvard, Uber, UCL, UC Davis",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "sanmikoyejo"
+      ],
+      "profile_url": "https://x.com/RylanSchaeffer"
+    },
+    {
+      "handle": "S_OhEigeartaigh",
+      "name": "Seán Ó hÉigeartaigh",
+      "bio": "Director of http:// ai-far.org at Uni of Cambridge | Researching Big Risks, and impacts of AI & emerging tech. Opinions own",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/S_OhEigeartaigh"
+    },
+    {
+      "handle": "s_r_constantin",
+      "name": "Sarah Constantin",
+      "bio": "(im)practical utopian. married to @oscredwin .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "oscredwin"
+      ],
+      "profile_url": "https://x.com/s_r_constantin"
+    },
+    {
+      "handle": "saadiq",
+      "name": "Saadiq",
+      "bio": "I like to solve problems and build things. Product, AI, and Tech • https:// saadiq.xyz",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/saadiq"
+    },
+    {
+      "handle": "saffronhuang",
+      "name": "Saffron Huang",
+      "bio": "how shall we live together? societal impacts researcher @AnthropicAI • ex @GoogleDeepMind @AISecurityInst ⋅ @collect_intel co-founder • views mine",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "GoogleDeepMind",
+        "AISecurityInst",
+        "collect_intel"
+      ],
+      "profile_url": "https://x.com/saffronhuang"
+    },
+    {
+      "handle": "Sam__Enright",
+      "name": "Sam Enright",
+      "bio": "Innovation policy @progressireland , writing @_fitzwilliam , fellow @rootsofprogress @joininteract",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "progressireland",
+        "_fitzwilliam",
+        "rootsofprogress",
+        "joininteract"
+      ],
+      "profile_url": "https://x.com/Sam__Enright"
+    },
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "bio": "AI is cool i guess",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/sama"
+    },
+    {
+      "handle": "SamuelAlbanie",
+      "name": "Samuel Albanie",
+      "bio": "mid training @GoogleDeepMind",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind"
+      ],
+      "profile_url": "https://x.com/SamuelAlbanie"
+    },
+    {
+      "handle": "saprmarks",
+      "name": "Samuel Marks",
+      "bio": "AI safety research @AnthropicAI , leading Cognitive Oversight team. Previously: postdoc with @davidbau , math PhD at @Harvard .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI",
+        "davidbau",
+        "Harvard"
+      ],
+      "profile_url": "https://x.com/saprmarks"
+    },
+    {
+      "handle": "sebkrier",
+      "name": "Séb Krier",
+      "bio": "AGI policy & jester @GoogleDeepMind | purveyor of machine funk, dimensional glider, deep ArXiv dweller, interstellar fugitive, uncertain, own views etc",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind"
+      ],
+      "profile_url": "https://x.com/sebkrier"
+    },
+    {
+      "handle": "SecureBio",
+      "name": "SecureBio",
+      "bio": "SecureBio is a research non-profit that works to advance biotechnology safely and prevent catastrophic pandemics",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/SecureBio"
+    },
+    {
+      "handle": "SemiAnalysis_",
+      "name": "SemiAnalysis",
+      "bio": "",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/SemiAnalysis_"
+    },
+    {
+      "handle": "SeyoneC",
+      "name": "Seyone Chithrananda",
+      "bio": "| 1st yr phd @stanford , always bear @ucberkeley computation, immunology & host-pathogen interactions",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "stanford",
+        "ucberkeley"
+      ],
+      "profile_url": "https://x.com/SeyoneC"
+    },
+    {
+      "handle": "SGRodriques",
+      "name": "Sam Rodriques",
+      "bio": "Director and CEO at FutureHouse and Edison Scientific. Building an AI scientist. http:// edisonscientific.com. http:// futurehouse.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/SGRodriques"
+    },
+    {
+      "handle": "ShakeelHashim",
+      "name": "Shakeel",
+      "bio": "Editor, @ReadTransformer . Prev: AI safety and EA comms, journalist @TheEconomist , @Protocol , @finimize",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "ReadTransformer",
+        "TheEconomist",
+        "Protocol",
+        "finimize"
+      ],
+      "profile_url": "https://x.com/ShakeelHashim"
+    },
+    {
+      "handle": "sharifshameem",
+      "name": "Sharif Shameem",
+      "bio": "playing with models @openai",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "openai"
+      ],
+      "profile_url": "https://x.com/sharifshameem"
+    },
+    {
+      "handle": "ShellyMBoulder",
+      "name": "Shelly Miller, PhD",
+      "bio": "Environmental engineering professor, loves mountain biking & yoga, studies sources/health impacts/control of urban and indoor air pollution. PhD Berkeley.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ShellyMBoulder"
+    },
+    {
+      "handle": "shipfr8",
+      "name": "FR8",
+      "bio": "where young mavericks build the future.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/shipfr8"
+    },
+    {
+      "handle": "Simon__Grimm",
+      "name": "Simon Grimm",
+      "bio": "AI, Europe, and Growth | @WorksInProgMag | Emergent Ventures | http:// simongrimm.substack.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "WorksInProgMag"
+      ],
+      "profile_url": "https://x.com/Simon__Grimm"
+    },
+    {
+      "handle": "simonw",
+      "name": "Simon Willison",
+      "bio": "Creator @datasetteproj , co-creator Django. PSF board. Hangs out with @natbat . He/Him. Mastodon: https:// fedi.simonwillison.net/@simon Bsky: http:// simonwillison.net",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "datasetteproj",
+        "natbat"
+      ],
+      "profile_url": "https://x.com/simonw"
+    },
+    {
+      "handle": "sj_manning",
+      "name": "sam manning",
+      "bio": "Margot, Penelope, Otis, and Annie's dad. Senior Research Fellow @GovAIOrg , Non-Resident Senior Fellow @JoinFAI . Economic and labor impacts of frontier AI.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GovAIOrg",
+        "JoinFAI"
+      ],
+      "profile_url": "https://x.com/sj_manning"
+    },
+    {
+      "handle": "skirano",
+      "name": "Pietro Schirano",
+      "bio": "CEO at @magicpathai Previously, @AnthropicAI , @brexHQ . @Uber , @Facebook . Creator of Claude Engineer, DesignerGPT, Sequential thinking MCP and more",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "magicpathai",
+        "AnthropicAI",
+        "brexHQ",
+        "Uber",
+        "Facebook"
+      ],
+      "profile_url": "https://x.com/skirano"
+    },
+    {
+      "handle": "SKonermann",
+      "name": "Silvana Konermann",
+      "bio": "Cofounder @arcinstitute and Assistant Professor @Stanford . HHMI Hanna Gray Fellow. CRISPR, RNA and Alzheimer’s via @salkinstitute , @MIT and @eth",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "arcinstitute",
+        "Stanford",
+        "salkinstitute",
+        "MIT",
+        "eth"
+      ],
+      "profile_url": "https://x.com/SKonermann"
+    },
+    {
+      "handle": "sleepinyourhat",
+      "name": "Sam Bowman",
+      "bio": "AI alignment + LLMs at Anthropic. On leave from NYU. Views not employers'. No relation to @s8mb . Into @givingwhatwecan .",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "s8mb",
+        "givingwhatwecan"
+      ],
+      "profile_url": "https://x.com/sleepinyourhat"
+    },
+    {
+      "handle": "snewmanpv",
+      "name": "Steve Newman",
+      "bio": "Co-founder of Writely (aka Google Docs) and 7 other startups. Now at the Golden Gate Institute for AI, working to bring AI’s toughest questions into focus.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/snewmanpv"
+    },
+    {
+      "handle": "sohamsankaran",
+      "name": "Soham Sankaran",
+      "bio": "I run @PopVaxIndia ( https:// popvax.com) – we develop mRNA vaccines and therapeutics using computational protein design. I write at https:// infinitesunrise.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "PopVaxIndia"
+      ],
+      "profile_url": "https://x.com/sohamsankaran"
+    },
+    {
+      "handle": "sophiemrose",
+      "name": "sophie rose",
+      "bio": "#everydropcounts",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/sophiemrose"
+    },
+    {
+      "handle": "SophieMRose_",
+      "name": "Sophie Rose",
+      "bio": "Chem-Bio @AISecurityInst | formerly @longresilience @JHSPH_CHS @JohnsHopkinsSPH @Stanford",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "AISecurityInst",
+        "longresilience",
+        "JHSPH_CHS",
+        "JohnsHopkinsSPH",
+        "Stanford"
+      ],
+      "profile_url": "https://x.com/SophieMRose_"
+    },
+    {
+      "handle": "sotalikesfuture",
+      "name": "Society for Technological Advancement",
+      "bio": "The cross-disciplinary community for Britain's most promising scientists, engineers & technologists building things that matter.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/sotalikesfuture"
+    },
+    {
+      "handle": "Spec__Tech",
+      "name": "Speculative Technologies",
+      "bio": "Creating an abundant, wonder-filled future by unlocking powerful materials and manufacturing technologies that don’t have a home in other institutions.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Spec__Tech"
+    },
+    {
+      "handle": "StartupArchive_",
+      "name": "Startup Archive",
+      "bio": "Archiving the world's best startup advice for future generations of founders",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/StartupArchive_"
+    },
+    {
+      "handle": "steipete",
+      "name": "Peter Steinberger",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world. @OpenClaw + @OpenAI",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "OpenClaw",
+        "OpenAI"
+      ],
+      "profile_url": "https://x.com/steipete"
+    },
+    {
+      "handle": "StephenLCasper",
+      "name": "Cas (Stephen Casper)",
+      "bio": "Computer scientist working on AI safeguards and gov research. Assistant professor @Kennedy_School @Harvard . https:// stephencasper.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Kennedy_School",
+        "Harvard"
+      ],
+      "profile_url": "https://x.com/StephenLCasper"
+    },
+    {
+      "handle": "Steve_Yegge",
+      "name": "Steve Yegge",
+      "bio": "I've been in the industry for O(40) years and have written O(1M) LOC. I don't think I'll ever write O(another) line again, but I'll be launching more than ever.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Steve_Yegge"
+    },
+    {
+      "handle": "stevenbjohnson",
+      "name": "Steven Johnson",
+      "bio": "Editorial Director, Gemini Notebook and Google Labs. Author of 14 books. Latest: The Infernal Machine. Speech inquiries email: wesn at leighbureau dot com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/stevenbjohnson"
+    },
+    {
+      "handle": "stripe",
+      "name": "Stripe",
+      "bio": "Stripe builds programmable financial services. Help: @stripesupport . Read: @stripepress @WorksInProgMag . Status: @stripestatus .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "stripesupport",
+        "stripepress",
+        "WorksInProgMag",
+        "stripestatus"
+      ],
+      "profile_url": "https://x.com/stripe"
+    },
+    {
+      "handle": "SurgeBiswas",
+      "name": "Surge Biswas",
+      "bio": "CEO Nabla Bio",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/SurgeBiswas"
+    },
+    {
+      "handle": "T_Inglesby",
+      "name": "Tom Inglesby, MD",
+      "bio": "Dir @JHSPH_CHS . Formerly @WhiteHouse COVID Response Team. Epidemics, pub health, biosecurity, preparedness. https:// bit.ly/3EBEhY0. Views expressed are my own.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "JHSPH_CHS",
+        "WhiteHouse"
+      ],
+      "profile_url": "https://x.com/T_Inglesby"
+    },
+    {
+      "handle": "tailwindcss",
+      "name": "Tailwind CSS",
+      "bio": "The utility-first CSS framework. Rapidly build modern websites, without ever leaving your HTML.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tailwindcss"
+    },
+    {
+      "handle": "tamaybes",
+      "name": "Tamay Besiroglu",
+      "bio": "Co-founder/CEO @MechanizeWork",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "MechanizeWork"
+      ],
+      "profile_url": "https://x.com/tamaybes"
+    },
+    {
+      "handle": "tannerlinsley",
+      "name": "Tanner Linsley",
+      "bio": "Creator of @Tan_Stack TypeScript Web Open Source SoftwareUI/UX/DX Co-Founder @NozzleIO @Ch_JesusChrist",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Tan_Stack",
+        "NozzleIO",
+        "Ch_JesusChrist"
+      ],
+      "profile_url": "https://x.com/tannerlinsley"
+    },
+    {
+      "handle": "taoburr",
+      "name": "Tao Burga",
+      "bio": "Technology Fellow @IFP | AI resilience, compute policy | The Launch Sequence",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "IFP"
+      ],
+      "profile_url": "https://x.com/taoburr"
+    },
+    {
+      "handle": "tatsu_hashimoto",
+      "name": "Tatsunori Hashimoto",
+      "bio": "Assistant Prof at Stanford CS, member of @stanfordnlp and statsml groups; Formerly at Microsoft / postdoc at Stanford CS / Stats.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "stanfordnlp"
+      ],
+      "profile_url": "https://x.com/tatsu_hashimoto"
+    },
+    {
+      "handle": "TechEmails",
+      "name": "Internal Tech Emails",
+      "bio": "Internal tech industry emails that surface in public records.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/TechEmails"
+    },
+    {
+      "handle": "teortaxesTex",
+      "name": "Teortaxes (DeepSeek 推特铁粉 2023 – ∞)",
+      "bio": "We're in a race. It's not USA vs China but humans and AGIs vs ape power centralization. @deepseek_ai stan #1, 2023–Deep Time «C’est la guerre.» ®1",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "deepseek_ai"
+      ],
+      "profile_url": "https://x.com/teortaxesTex"
+    },
+    {
+      "handle": "tessafyi",
+      "name": "Tessa Alexanian",
+      "bio": "let's make nice things with biology screening synthesis @IBBIS_bio former safety @iGEM , robots @Zymergen 10% Pledge #3474 (she)",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "IBBIS_bio",
+        "iGEM",
+        "Zymergen"
+      ],
+      "profile_url": "https://x.com/tessafyi"
+    },
+    {
+      "handle": "The_JBernardi",
+      "name": "Jamie Bernardi",
+      "bio": "Doing AI policy research, ex-Bluedot Impact. Climber, guitarist and sporadic musician. he/him.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/The_JBernardi"
+    },
+    {
+      "handle": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "bio": "co-founder @HuggingFace - moonshots",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "HuggingFace"
+      ],
+      "profile_url": "https://x.com/Thom_Wolf"
+    },
+    {
+      "handle": "tkuiken",
+      "name": "Tricia Kuiken",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tkuiken"
+    },
+    {
+      "handle": "TobiasJolly",
+      "name": "Toby Jolly",
+      "bio": "graphs about feelings feelings about graphs hypocrisy (~60%) deliberate",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/TobiasJolly"
+    },
+    {
+      "handle": "tobyordoxford",
+      "name": "Toby Ord",
+      "bio": "Senior Researcher at Oxford University. Author — The Precipice: Existential Risk and the Future of Humanity.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tobyordoxford"
+    },
+    {
+      "handle": "Tom_Westgarth15",
+      "name": "Tom Westgarth",
+      "bio": "Head of Growth @fractile_ai | ex: AI policy @institutegc , @UKSovereignAI Advisor | Bridging tech and policy worlds @txp_io",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "fractile_ai",
+        "institutegc",
+        "UKSovereignAI",
+        "txp_io"
+      ],
+      "profile_url": "https://x.com/Tom_Westgarth15"
+    },
+    {
+      "handle": "tomaspueyo",
+      "name": "Tomas Pueyo",
+      "bio": "Understand deeply how the world works today to navigate the world of tomorrow. Join 120k ppl in my free newsletter:",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tomaspueyo"
+    },
+    {
+      "handle": "TomDavidsonX",
+      "name": "Tom Davidson",
+      "bio": "Senior Research Fellow @forethought_org Understanding the intelligence explosion and how to prepare",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "forethought_org"
+      ],
+      "profile_url": "https://x.com/TomDavidsonX"
+    },
+    {
+      "handle": "TransluceAI",
+      "name": "Transluce",
+      "bio": "Open and scalable technology for understanding AI systems.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/TransluceAI"
+    },
+    {
+      "handle": "TrentonBricken",
+      "name": "Trenton Bricken",
+      "bio": "Stochastic parrot",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/TrentonBricken"
+    },
+    {
+      "handle": "TristanThrush",
+      "name": "Tristan Thrush",
+      "bio": "PhD-ing @StanfordAILab @stanfordnlp . Interested in data, multimodality, scaling, and many more things.",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "StanfordAILab",
+        "stanfordnlp"
+      ],
+      "profile_url": "https://x.com/TristanThrush"
+    },
+    {
+      "handle": "trvrb",
+      "name": "Trevor Bedford",
+      "bio": "Scientist @fredhutch , studying viruses, evolution and immunity. Collection of #COVID19 threads here: https:// bedford.io/misc/twitter/",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "fredhutch"
+      ],
+      "profile_url": "https://x.com/trvrb"
+    },
+    {
+      "handle": "tszzl",
+      "name": "roon",
+      "bio": "“ceterum censeo we must pace the frontier of global machine intelligence progress”",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tszzl"
+    },
+    {
+      "handle": "Turn_Trout",
+      "name": "Alex Turner",
+      "bio": "Cross-posting only; contact me at alex@turntrout.com or http:// bsky.app/profile/turntr out.bsky.social … Vegan, 10% of my income pledged to effective charities (GWWC)",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Turn_Trout"
+    },
+    {
+      "handle": "tyler_m_john",
+      "name": "Tyler John",
+      "bio": "research taste tester",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tyler_m_john"
+    },
+    {
+      "handle": "TylerAlterman",
+      "name": "Tyler is finishing a book, slow to reply",
+      "bio": "Hedge wizard. Campus: http:// fractalnyc.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/TylerAlterman"
+    },
+    {
+      "handle": "tylercowen",
+      "name": "tylercowen",
+      "bio": "new book *Talent: How to Identify Energizers, Winners, and Creatives Around the World*, http:// marginalrevolution.com, Conversations with Tyler, The Free Press.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/tylercowen"
+    },
+    {
+      "handle": "uneventual",
+      "name": "lucy",
+      "bio": "loveable rogue",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/uneventual"
+    },
+    {
+      "handle": "v0",
+      "name": "v0",
+      "bio": "Full stack vibe coding platform. Created by @vercel .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "vercel"
+      ],
+      "profile_url": "https://x.com/v0"
+    },
+    {
+      "handle": "vaidehiagrwalla",
+      "name": "Vaidehi Agarwalla",
+      "bio": "I like updating (my beliefs). 10% pledger",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/vaidehiagrwalla"
+    },
+    {
+      "handle": "Vernon3Austin",
+      "name": "Austin Vernon",
+      "bio": "Making ultra cheap thermal energy storage at Standard Thermal. https:// standardthermal.com I write a blog about energy and technology",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/Vernon3Austin"
+    },
+    {
+      "handle": "vibeshipco",
+      "name": "vibeship",
+      "bio": "useful tools for vibe coders / vibe coded by @meta_alchemist",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "meta_alchemist"
+      ],
+      "profile_url": "https://x.com/vibeshipco"
+    },
+    {
+      "handle": "vidur_kapur",
+      "name": "Vidur Kapur",
+      "bio": "Superforecaster at Good Judgment. Also forecasting with @Swift_Centre , @SamotsvetyF , @XRiskFYI and a hedge fund, and formerly with RAND.",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [
+        "Swift_Centre",
+        "SamotsvetyF",
+        "XRiskFYI"
+      ],
+      "profile_url": "https://x.com/vidur_kapur"
+    },
+    {
+      "handle": "visakanv",
+      "name": "Visakan Veerasamy",
+      "bio": "Focus on what you want to see more of. buy my ebooks ▲ FRIENDLY AMBITIOUS NERD ▲ ( http:// gum.co/FANbook) and ꩜ INTROSPECT ꩜ ( http:// gum.co/introspect)",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/visakanv"
+    },
+    {
+      "handle": "VitalikButerin",
+      "name": "vitalik.eth",
+      "bio": "I choose balance. First-level balance. mi pinxe lo crino tcati https:// slatestarcodex.com/2018/09/12/in- the-balance/ …",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/VitalikButerin"
+    },
+    {
+      "handle": "WeinbaumJonah",
+      "name": "Jonah Weinbaum",
+      "bio": "Technology Fellow @IFP : State Capacity, The Launch Sequence.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "IFP"
+      ],
+      "profile_url": "https://x.com/WeinbaumJonah"
+    },
+    {
+      "handle": "wilhelmscreamin",
+      "name": "catherine ʕ•ᴥ•ʔ-☆",
+      "bio": "ai governance & ai safety grantmaking @coeff_giving , views of someone i'm r-related to",
+      "verified": false,
+      "follows_you": true,
+      "bio_mentions": [
+        "coeff_giving"
+      ],
+      "profile_url": "https://x.com/wilhelmscreamin"
+    },
+    {
+      "handle": "willmacaskill",
+      "name": "William MacAskill",
+      "bio": "Consider donating 10% to effective charities: http:// givingwhatwecan.org/pledge Or a career for impact: http:// 80000hours.org My research: http:// forethought.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/willmacaskill"
+    },
+    {
+      "handle": "woj_zaremba",
+      "name": "Wojciech Zaremba",
+      "bio": "AI resilience at OpenAI Foundation Co-Founder of OpenAI https:// woj.world",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/woj_zaremba"
+    },
+    {
+      "handle": "WorkshopLabs",
+      "name": "Workshop Labs",
+      "bio": "Workshop Labs is an AI research company with a mission to make people irreplaceable.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/WorkshopLabs"
+    },
+    {
+      "handle": "wrenclay",
+      "name": "Clay Wren",
+      "bio": "Senior Researcher @windfalltrust Love jiu-jitsu, MMA, house music, movies, and oysters",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "windfalltrust"
+      ],
+      "profile_url": "https://x.com/wrenclay"
+    },
+    {
+      "handle": "yb_lim",
+      "name": "Yoo-Bong Lim",
+      "bio": "",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/yb_lim"
+    },
+    {
+      "handle": "ydeigin",
+      "name": "Yuri Deigin",
+      "bio": "Developing Alzheimer’s/CNS gene therapies: http:// YouthBioTx.com | Vitalist: http:// vitalism.io | DRASTIC cofounder (COVID origins): http:// DrasticScience.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/ydeigin"
+    },
+    {
+      "handle": "yoavtzfati",
+      "name": "Yoav Tzfati",
+      "bio": "AI Alignment and Security researcher, master of meta vibe coding. Building http:// alignment-hive.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/yoavtzfati"
+    },
+    {
+      "handle": "yonashav",
+      "name": "Yo Shavit",
+      "bio": "ai resilience @foundationOAI . Past: @openai / @HarvardSEAS / @SchmidtFutures / @MIT_CSAIL . Tweets my own; on my head be it.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "foundationOAI",
+        "openai",
+        "HarvardSEAS",
+        "SchmidtFutures",
+        "MIT_CSAIL"
+      ],
+      "profile_url": "https://x.com/yonashav"
+    },
+    {
+      "handle": "zenorocha",
+      "name": "Zeno Rocha",
+      "bio": "founder & ceo @resend // creator of https:// react.email • https:// draculatheme.com",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "resend"
+      ],
+      "profile_url": "https://x.com/zenorocha"
+    },
+    {
+      "handle": "zeynep",
+      "name": "zeynep tufekci",
+      "bio": "Complex systems, wicked problems. Society, technology, science and more. @Princeton professor. @NYTimes columnist. My newsletter @insight http:// theinsight.org",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "Princeton",
+        "NYTimes",
+        "insight"
+      ],
+      "profile_url": "https://x.com/zeynep"
+    },
+    {
+      "handle": "zhangf",
+      "name": "Feng Zhang",
+      "bio": "Engineer and molecular biologist. Curious about the world and optimistic to make it better.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [],
+      "profile_url": "https://x.com/zhangf"
+    },
+    {
+      "handle": "zhengdongwang",
+      "name": "Zhengdong",
+      "bio": "natural history @GoogleDeepMind / consumer.",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "GoogleDeepMind"
+      ],
+      "profile_url": "https://x.com/zhengdongwang"
+    },
+    {
+      "handle": "ZhongRuiqi",
+      "name": "Ruiqi Zhong",
+      "bio": "Member of Technical Staff at Thinking Machines. Human+AI collaboration. Scalable Oversight. Explainability. Prev @AnthropicAI PhD UC Berkeley'25; Columbia'19",
+      "verified": false,
+      "follows_you": false,
+      "bio_mentions": [
+        "AnthropicAI"
+      ],
+      "profile_url": "https://x.com/ZhongRuiqi"
+    },
+    {
+      "handle": "zicokolter",
+      "name": "Zico Kolter",
+      "bio": "Professor and Head of Machine Learning Department at @CarnegieMellon . Board member @OpenAI and @Qualcomm . Chief Scientist @GraySwanAI .",
+      "verified": true,
+      "follows_you": false,
+      "bio_mentions": [
+        "CarnegieMellon",
+        "OpenAI",
+        "Qualcomm",
+        "GraySwanAI"
+      ],
+      "profile_url": "https://x.com/zicokolter"
+    }
+  ]
+}

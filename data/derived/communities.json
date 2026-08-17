@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "size": 165,
+    "label": "policy / future / google / risks",
+    "top_terms": [
+      "policy",
+      "future",
+      "google",
+      "risks",
+      "intelligence",
+      "writing",
+      "substack",
+      "technology"
+    ],
+    "central_accounts": [
+      "jasonhausenloy",
+      "GovAIOrg",
+      "arcinstitute",
+      "PeterMcCrory",
+      "coeff_giving",
+      "foresightinst",
+      "forethought_org",
+      "lukeprog"
+    ]
+  },
+  {
+    "id": 2,
+    "size": 42,
+    "label": "anthropicai / trying / training / philosophy",
+    "top_terms": [
+      "anthropicai",
+      "trying",
+      "training",
+      "philosophy",
+      "good",
+      "data",
+      "googledeepmind",
+      "natural"
+    ],
+    "central_accounts": [
+      "bcherny",
+      "AvitalBalwit",
+      "jkcarlsmith",
+      "AmandaAskell",
+      "divyasiddarth",
+      "livgorton",
+      "ch402",
+      "MechanizeWork"
+    ]
+  },
+  {
+    "id": 3,
+    "size": 35,
+    "label": "ai-safety / assistant / systems / company",
+    "top_terms": [
+      "ai-safety",
+      "assistant",
+      "systems",
+      "company",
+      "prof",
+      "security",
+      "builds",
+      "software"
+    ],
+    "central_accounts": [
+      "AnthropicAI",
+      "FabienDRoger",
+      "rohinmshah",
+      "EthanJPerez",
+      "METR_Evals",
+      "bakkermichiel",
+      "TransluceAI",
+      "stripe"
+    ]
+  },
+  {
+    "id": 4,
+    "size": 30,
+    "label": "director / health / professor / dad",
+    "top_terms": [
+      "director",
+      "health",
+      "professor",
+      "dad",
+      "global",
+      "mostly",
+      "labs",
+      "science"
+    ],
+    "central_accounts": [
+      "JacobSteinhardt",
+      "natliml",
+      "goodside",
+      "bscwang",
+      "sj_manning",
+      "gregkoblentz",
+      "Bryce_Nickels",
+      "AmmannNora"
+    ]
+  },
+  {
+    "id": 5,
+    "size": 27,
+    "label": "models / deep / tech / scientists",
+    "top_terms": [
+      "models",
+      "deep",
+      "tech",
+      "scientists",
+      "learning",
+      "anthropic",
+      "paper",
+      "welfare"
+    ],
+    "central_accounts": [
+      "80000Hours",
+      "ARIA_research",
+      "MariusHobbhahn",
+      "fish_kyle3",
+      "aengus_lynch1",
+      "arianTBD",
+      "karpathy",
+      "DavidDuvenaud"
+    ]
+  },
+  {
+    "id": 6,
+    "size": 27,
+    "label": "low-information",
+    "top_terms": [],
+    "central_accounts": [
+      "pawtrammell",
+      "repligate",
+      "richardhatchett",
+      "SemiAnalysis_",
+      "tkuiken",
+      "yb_lim",
+      "DuncanMcClement",
+      "amylabenz"
+    ]
+  },
+  {
+    "id": 7,
+    "size": 26,
+    "label": "openai / harvard / science / lead",
+    "top_terms": [
+      "openai",
+      "harvard",
+      "science",
+      "lead",
+      "foundation",
+      "cicero",
+      "vibes",
+      "mine"
+    ],
+    "central_accounts": [
+      "OpenAI",
+      "gdb",
+      "JacobTref",
+      "jxnlco",
+      "sharifshameem",
+      "woj_zaremba",
+      "EvanHub",
+      "max_a_schwarzer"
+    ]
+  },
+  {
+    "id": 8,
+    "size": 23,
+    "label": "founders / cursor_ai / spacexai / agent",
+    "top_terms": [
+      "founders",
+      "cursor_ai",
+      "spacexai",
+      "agent",
+      "cursor",
+      "hours",
+      "author",
+      "network"
+    ],
+    "central_accounts": [
+      "pmcntyr",
+      "amanrsanger",
+      "ben_j_todd",
+      "StartupArchive_",
+      "jasoncrawford",
+      "LeoMcKeeReid",
+      "bswud",
+      "Eduard_Baroyan"
+    ]
+  },
+  {
+    "id": 9,
+    "size": 15,
+    "label": "biosecurity / pandemics / emerging / focused",
+    "top_terms": [
+      "biosecurity",
+      "pandemics",
+      "emerging",
+      "focused",
+      "disease",
+      "prevent",
+      "biotechnology",
+      "risks"
+    ],
+    "central_accounts": [
+      "RyanGreenblatt",
+      "Convergent_FROs",
+      "JacobSwett",
+      "JaimeYassif",
+      "kprather88",
+      "S_OhEigeartaigh",
+      "SecureBio",
+      "phil_palmer_"
+    ]
+  },
+  {
+    "id": 10,
+    "size": 13,
+    "label": "engineer / product / codex / london",
+    "top_terms": [
+      "engineer",
+      "product",
+      "codex",
+      "london",
+      "openai",
+      "baish_arg",
+      "like",
+      "status"
+    ],
+    "central_accounts": [
+      "lvcadeleo",
+      "OpenAIDevs",
+      "skirano",
+      "kevinweil",
+      "saadiq",
+      "aidan_mclau",
+      "ozziegooen",
+      "lennysan"
+    ]
+  },
+  {
+    "id": 11,
+    "size": 10,
+    "label": "work / resolution_org / cofounder / arcinstitute",
+    "top_terms": [
+      "work",
+      "resolution_org",
+      "cofounder",
+      "arcinstitute",
+      "begins",
+      "great",
+      "stripe",
+      "excited"
+    ],
+    "central_accounts": [
+      "patrickc",
+      "abhinadduri",
+      "alexalbert__",
+      "_catwu",
+      "jacob_pfau",
+      "AlexandraBalwit",
+      "_zifan_wang",
+      "AHT_SBD"
+    ]
+  },
+  {
+    "id": 12,
+    "size": 10,
+    "label": "futures / bio / nabla / biosecurity",
+    "top_terms": [
+      "futures",
+      "bio",
+      "nabla",
+      "biosecurity",
+      "tech",
+      "strategic",
+      "openai",
+      "diybio"
+    ],
+    "central_accounts": [
+      "deanwball",
+      "jackclarkSF",
+      "kenzasaml",
+      "guynamedjoshl",
+      "joshgans",
+      "allisondman",
+      "eli_lifland",
+      "JonasSandbrink"
+    ]
+  },
+  {
+    "id": 13,
+    "size": 7,
+    "label": "effective / events / altruism / academic",
+    "top_terms": [
+      "effective",
+      "events",
+      "altruism",
+      "academic",
+      "jack-of-all-trades",
+      "charities",
+      "hours",
+      "donating"
+    ],
+    "central_accounts": [
+      "bellaforristal",
+      "Ollie_Base",
+      "willmacaskill",
+      "Turn_Trout",
+      "ReflectiveAlt",
+      "roonotroon",
+      "anderssandberg"
+    ]
+  },
+  {
+    "id": 14,
+    "size": 7,
+    "label": "tools / insight / focus / memory",
+    "top_terms": [
+      "tools",
+      "insight",
+      "focus",
+      "memory",
+      "vibe",
+      "openai",
+      "astral_sh",
+      "high-performance"
+    ],
+    "central_accounts": [
+      "catherineols",
+      "charliermarsh",
+      "zeynep",
+      "vibeshipco",
+      "visakanv",
+      "andy_matuschak",
+      "ashleevance"
+    ]
+  },
+  {
+    "id": 15,
+    "size": 6,
+    "label": "guy / economy / political / bias",
+    "top_terms": [
+      "guy",
+      "economy",
+      "political",
+      "bias",
+      "learns",
+      "towards",
+      "action",
+      "allegro"
+    ],
+    "central_accounts": [
+      "BharatKChandar",
+      "danielrock",
+      "haththerescuer",
+      "JasonDClinton",
+      "BertuzLuca",
+      "anton_d_leicht"
+    ]
+  }
+]

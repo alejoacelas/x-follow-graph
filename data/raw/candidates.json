@@ -1,0 +1,66 @@
+{
+  "collected_at": "2026-08-16",
+  "selection_note": "Accounts shown by X as signed-in recommendations while browsing Alejo's follow graph; not endorsements.",
+  "accounts": [
+    {
+      "handle": "BraunJoschka",
+      "name": "Joschka Braun",
+      "bio": "AI safety researcher \n@ApolloResearch\n | Science of Scheming | prev. \n@MATSprogram\n \n@kasl_ai\n \n@health_nlp\n \n@uni_tue",
+      "mutual_context": "Leo McKee-Reid, Ryan Kidd y 6 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/BraunJoschka",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    },
+    {
+      "handle": "_sholtodouglas",
+      "name": "Sholto Douglas",
+      "bio": "Scaling RL \n@AnthropicAI\n, ex \n@DeepMind\n - working towards intelligence too cheap to meter",
+      "mutual_context": "Claude Code Changelog, Claude Code Community y 159 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/_sholtodouglas",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    },
+    {
+      "handle": "ilyasut",
+      "name": "Ilya Sutskever",
+      "bio": "SSI \n@SSI",
+      "mutual_context": "Charlie Bullock, Luca De Leo y 189 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/ilyasut",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    },
+    {
+      "handle": "LauraDeming",
+      "name": "Laura  ",
+      "bio": "CEO of \n@untillabs\n\n\nI enjoy helping new technologies into the Overton window of acceptable discourse",
+      "mutual_context": "Sarah Constantin, Edge City y 107 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/LauraDeming",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    },
+    {
+      "handle": "Meaningness",
+      "name": "David Chapman",
+      "bio": "Better ways of thinking, feeling, and acting—around problems of meaning and meaninglessness; self and society; ethics, purpose, and value.",
+      "mutual_context": "Sarah Constantin, Xander Balwit y 74 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/Meaningness",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    },
+    {
+      "handle": "SamoBurja",
+      "name": "Samo Burja",
+      "bio": "There's never been an immortal society. Figuring out why. Founder \n@bismarckanlys\n.",
+      "mutual_context": "Luke Drago, Philipp Koralus y 80 más de las cuentas que sigues siguen a este usuario",
+      "profile_url": "https://x.com/SamoBurja",
+      "source": [
+        "signed-in X recommendation surface"
+      ]
+    }
+  ]
+}
