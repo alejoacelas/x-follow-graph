@@ -97,3 +97,12 @@ git diff --exit-code
 ```
 
 Expected coverage on this snapshot: 443 following accounts, 512 post-feature records from 28 accounts, 56 profile-timeline attempts, 15 communities, and six nearby candidates.
+
+## Retire construction folders
+
+Alejo wanted all `reproduce` folders under `~/best` transitioned to `REPLICATE.md`.
+
+- Consolidated the existing records and updated references for `reproduce`. Preserved scripts, data and maintained procedures in their own folders.
+- Original tracked files remain in Git at `0c02fe85a7510c4b96c27256792aab134ba320c3`; a full local backup, including ignored files, is at `/Users/alejo/.local/state/reproduce-migration/2026-09-19-_qyg4u7a/before/tools/active/twitter/x-follow-graph`.
+
+Agent session 01a0bb8d-6d31-76d3-ac4e-aca4c5dfce64 · Commits 3c98db8671f5d90be74e56e5596e0f96b92f3991
