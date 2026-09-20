@@ -5,4 +5,4 @@
 - `raw/candidates.json`: public profiles X recommended during collection.
 - `derived/`: deterministic outputs from `scripts/analyze.py`.
 
-Every file is a 2026-08-16 snapshot. See [`../REPLICATE.md`](../REPLICATE.md#record-methodology) before interpreting graph edges or missing posts.
+Every file is a 2026-08-16 snapshot. See [`../DECISIONS.md`](../DECISIONS.md#decision-1) before interpreting graph edges or missing posts.
