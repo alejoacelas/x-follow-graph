@@ -9,4 +9,4 @@ python3 scripts/analyze.py
 python3 -m unittest discover -s tests -v
 ```
 
-The browser collection reached the bottom of my Following list. X stopped serving profile timelines after 512 post-feature records from 28 accounts; the collection boundary and interpretation rules are documented in [`DECISIONS.md`](DECISIONS.md#decision-1).
+The browser collection reached the bottom of my Following list. X stopped serving profile timelines after 512 post-feature records from 28 accounts.
